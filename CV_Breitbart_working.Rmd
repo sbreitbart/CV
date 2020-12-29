@@ -5,7 +5,7 @@ email: sophie.breitbart@mail.utoronto.ca
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: ~/R_Projects/CV/CV_Breitbart/svm-latex-cv.tex
+    template: ~/svm-latex-cv.tex
   html_document:
     df_print: paged
   word_document: default
