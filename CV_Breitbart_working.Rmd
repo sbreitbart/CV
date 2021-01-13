@@ -75,7 +75,7 @@ Circadian locomotor activity in *Drosophila melanogaster*.
 # Honors & Awards
 ## Research Grants
 Sigma Xi Grant in Aid of Research ($1,000) \hfill 2020  
-Center for Urban Environments Workshop/Symposium Grant ($2500) \hfill 2020  
+Center for Urban Environments Workshop/Symposium Grant ($2,500) \hfill 2020  
 &nbsp;&nbsp;*Co-applicants: L. Miles, H. Abdel Hafez.*  
 NSERC CREATE Enviro Trainee ($23,700) \hfill 2018-2019  
 &nbsp;&nbsp;*Primary applicants: H. Wagner, M. Johnson.*  
@@ -158,6 +158,7 @@ Chernoﬀ, B., Kraczkowski, M., Angel, J., Meyer, A., Nash, C., Roman-Johnston, 
 # Teaching & Supervisory Experience
 ## Teaching
 *University of Toronto Mississauga*  
+**Teaching Assistant**, Evolutionary Biology (BIO342) \hfill 2021  
 **Teaching Assistant**, Biometrics (BIO360) \hfill 2019, 2020  
 **Teaching Assistant**, Introduction to Evolution & Evolutionary Genetics (BIO152) \hfill 2019  
 **Teaching Assistant**, Ecology (BIO205) \hfill 2018  
@@ -176,7 +177,7 @@ Danil Karimov, work-study student. Leaf image analysis with ImageJ. \hfill 2019-
 
 # Community Involvement
 ## Reviewer for
-- *Journal of Urban Ecology*  
+- *Journal of Urban Ecology*, *Functional Ecology*  
 
 ## Departmental Service
 **Fundraising Representative** (elected), EEB Graduate Student Association \hfill 2020-present	
