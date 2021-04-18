@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.12.27)  28 DEC 2020 19:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.12.27)  18 APR 2021 08:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -607,19 +607,19 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 {c:/Users/sbrei/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
 x.map}]
 LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 
-211.
+213.
 (c:/Users/sbrei/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 ) [2] [3] 
 AED: lastpage setting LastPage
 [4] (./CV_Breitbart_working.aux)
 Package rerunfilecheck Info: File `CV_Breitbart_working.out' has not changed.
-(rerunfilecheck)             Checksum: E522C8D3EA60958611C7CC99D7316B8A;2800.
+(rerunfilecheck)             Checksum: BF0C70F6024BA381BA839C075E9B0E8E;2830.
  ) 
 Here is how much of TeX's memory you used:
  13159 strings out of 481330
- 189429 string characters out of 5915953
- 496527 words of memory out of 5000000
+ 189435 string characters out of 5915953
+ 495533 words of memory out of 5000000
  29778 multiletter control sequences out of 15000+600000
  440540 words of font info for 82 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -634,7 +634,7 @@ ppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users
 /sbrei/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><
 c:/Users/sbrei/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr
 i8a.pfb>
-Output written on CV_Breitbart_working.pdf (4 pages, 109781 bytes).
+Output written on CV_Breitbart_working.pdf (4 pages, 110251 bytes).
 PDF statistics:
  169 PDF objects out of 1000 (max. 8388607)
  137 compressed objects within 2 object streams
