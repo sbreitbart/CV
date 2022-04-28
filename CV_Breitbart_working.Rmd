@@ -19,9 +19,9 @@ jobtitle: PhD Candidate, University of Toronto
 linkcolor: blue
 fontawesome: yes
 address: Department of Ecology & Evolutionary Biology
-updated: no
+# updated: no
 urlcolor: blue
-web: sophiebreitbart.wordpress.com
+web: sbreitbart.github.io
 ---
 <!-- I am using Steven V. Miller's CV template, available here: https://github.com/svmiller/svm-r-markdown-templates
 Thank you Steve! -->
@@ -86,7 +86,7 @@ Wesleyan University Carol and Robert Lynch Student Research Fund Grant ($905) \h
 Wesleyan University Howard Hughes Medical Institute Grant ($884) \hfill 2013  
 
 ## Scholarships & Awards
-Zimmerman/Weis Graduate Award ($10,950) \hfill 2020  
+Zimmerman/Weis Graduate Award ($10,950/year) \hfill 2020, 2021  
 International Association for Landscape Ecology Conference Travel Award ($600) \hfill 2019  
 Joseph Scacalossi Scholarship ($4,000) \hfill 2012  
 \vspace{4pt}
@@ -100,6 +100,9 @@ Santangelo J.S., Miles, L.S., **Breitbart, S.T.**, Murray-Stoker, D., Rivkin, L.
 
 
 ## Journal Articles
+3\.&nbsp;&nbsp;
+**Breitbart, S.**, A. Tomchyshyn, M. Johnson, and H. Wagner. 2022. Urbanization and green corridors influence reproductive success and pollinators of common milkweed. *Under Review at Urban Ecosystems.* [Preprint](https://www.biorxiv.org/content/10.1101/2022.03.11.483986v1)
+
 2\.&nbsp;&nbsp;
 Miles, L.S.&ast;, **S.T. Breitbart&ast;**, H.H. Wagner, and M.T.J. Johnson. 2019. Urbanization Shapes the Ecology and Evolution of Plant-Arthropod Herbivore Interactions. Frontiers in Ecology and Evolution 7:1–14. DOI: [10.3389/fevo.2019.00310](https://www.frontiersin.org/articles/10.3389/fevo.2019.00310/full)
 
@@ -116,8 +119,19 @@ Miles, L.S.&ast;, **S.T. Breitbart&ast;**, H.H. Wagner, and M.T.J. Johnson. 2019
 \vspace{4pt}
 
 
+# Invited Seminars
+
+1\.&nbsp;&nbsp;
+**Breitbart, S.**, Wagner, H., Johnson, M. Urbanization affects the ecology and evolution of *Asclepias syriaca* (Common milkweed). National Center for Ecological Analysis & Synthesis (NCEAS). 1/19/2022.  
 
 # Presentations
+
+14\.&nbsp;&nbsp;
+**Breitbart, S.**, Wagner, H., Johnson, M. Testing for Genetic Clines in Phenotypic Traits Along an Urban-Rural Gradient in *Asclepias syriaca*. Presentation. Canadian Society for Ecology & Evolution (CSEE), Virtual Conference. 8/18/2021.  
+
+13\.&nbsp;&nbsp;
+**Breitbart, S.**, Wagner, H., Johnson, M. Testing for Genetic Clines in Phenotypic Traits Along an Urban-Rural Gradient in *Asclepias syriaca*. Presentation. Evolution, Virtual Conference. 6/21/2021.  
+
 12\.&nbsp;&nbsp;
 **Breitbart, S.** Applying to and Succeeding in Graduate School. Seminar Panel. Honors Biology Thesis Course (BIO481), Virtual Seminar. 11/27/2020.  
 
@@ -155,13 +169,25 @@ Chernoﬀ, B., Kraczkowski, M., Angel, J., Meyer, A., Nash, C., Roman-Johnston, 
 **Breitbart, S.**, Hildebrandt, A., Possidente, B. (2010). Assessing Effects of Sex, Mating Status, and a White-Eye Mutation in a Co-Isogenic Background on Circadian Locomotor Activity in *Drosophila melanogaster*. University at Albany Undergraduate Research Symposium, Albany, New York. 4/29/2011.
 \vspace{4pt}
 
+# Workshops
+4\.&nbsp;&nbsp;
+**Breitbart, S.**, Filazzola, A. (2021). BGSS Fall Retreat 2021 Coding Workshop. University of Toronto Mississauga Biology Graduate Student Society Fall Retreat. https://sbreitbart.github.io/BGSS_Retreat_2021_Workshop/  
 
+3\.&nbsp;&nbsp;
+Filazzola, A., **Breitbart, S.** (2021). Fast-R: Improving the Reproducibility and Efficiency of your Coding. Santa Barbara R Meetup. https://afilazzola.github.io/SBMeetup2021-FastR/  
+
+2\.&nbsp;&nbsp;
+Filazzola, A., **Breitbart, S.** (2021). Fast-R: Making R Work Hard So That You Don’t Have To. Canadian Society for Ecology & Evolution (CSEE) Annual Meeting. https://afilazzola.github.io/FastR/  
+
+1\.&nbsp;&nbsp;
+Filazzola, A., **Breitbart, S.** (2021). Fast-R: Making R Work Hard So That You Don’t Have To. Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (SORTEE) Annual Meeting. https://afilazzola.github.io/FastR/
+\vspace{4pt}
 
 # Teaching & Supervisory Experience
 ## Teaching
 *University of Toronto Mississauga*  
-**Teaching Assistant**, Evolutionary Biology (BIO342) \hfill 2021  
-**Teaching Assistant**, Biometrics (BIO360) \hfill 2019, 2020  
+**Teaching Assistant**, Evolutionary Biology (BIO342) \hfill 2021, 2022  
+**Teaching Assistant**, Biometrics (BIO360) \hfill 2019, 2020, 2021  
 **Teaching Assistant**, Introduction to Evolution & Evolutionary Genetics (BIO152) \hfill 2019  
 **Teaching Assistant**, Ecology (BIO205) \hfill 2018  
 
@@ -171,8 +197,8 @@ Chernoﬀ, B., Kraczkowski, M., Angel, J., Meyer, A., Nash, C., Roman-Johnston, 
 *Wesleyan University*  
 **Professorial Assistant, Peer Tutor, Cartographer**, GIS Assistant Program \hfill 2015-2016	 
 
-## Supervisory Experience
-Danil Karimov, work-study student. Leaf image analysis with ImageJ. \hfill 2019-2021
+<!-- ## Supervisory Experience -->
+<!-- Danil Karimov, work-study student. Leaf image analysis with ImageJ. \hfill 2019-2021 -->
 \vspace{4pt}
 
 
@@ -182,34 +208,37 @@ Danil Karimov, work-study student. Leaf image analysis with ImageJ. \hfill 2019-
 - *Journal of Urban Ecology*, *Functional Ecology*  
 
 ## Departmental Service
-**Fundraising Representative** (elected), EEB Graduate Student Association \hfill 2020-present	
-**Treasurer**, UTM Biology Graduate Student Society \hfill 2020-present	 
-**Undergraduate Mentor**, Grad Connect Mentorship Program (Mariana Walker) \hfill 2020-present	
+**UTM Representative**, EEB Graduate Student Association \hfill 2021-present	 
+**Fundraising Representative** (elected), EEB Graduate Student Association \hfill 2020-2021	 
+**Treasurer**, UTM Biology Graduate Student Society \hfill 2020-2021	 
+**Undergraduate Mentor**, Grad Connect Mentorship Program \hfill 2020-2021	 
 **Volunteer**, School of Graduate Studies Listening Sessions for Women in STEM \hfill 2020	
 **Organizer & Guide**, Greenhouse Tour (Wellness Event for UTM Grads) \hfill 2019    
-**Peer Mentor**, EEB Mentorship Program (Vicki Zhang, Siyu Wang) \hfill 2019-present  
+**Peer Mentor**, EEB Mentorship Program \hfill 2019-present  
 **Volunteer**, “Biodiversity in the City” Public Panel Discussion, Royal Ontario Museum \hfill 2019  
 **Volunteer**, Alumni and Friends Family Day at the Koffler Scientific Reserve \hfill 2019  
-**Member**, UTM Biology Graduate Student Society \hfill 2018-2020  
+**Member**, UTM Biology Graduate Student Society \hfill 2018-present  
 
 ## Academic Service
 **Symposium Co-organizer**, “Landscape Genetics as a Tool for Managing Human-Impacted Landscapes”. 2020 IALE-North America Conference. *Co-organizers: L. Miles, H. Abdel Hafez.* \hfill 2019-2020  
-**Mentor**, MentorNet (Jessie Moravek, Lancaster University) \hfill 2019  
+**Mentor**, MentorNet \hfill 2019  
 **Steering Committee Member**, Wesleyan Women in Science \hfill 2013-2016  
 **Panelist**, Wesleyan Women in Science Summer STEM Internship Info Session \hfill 2016  
 **Science Facilities Tour Guide**, WesFest (Wesleyan’s Admitted Students Recruitment Event) \hfill 2014  
 **Member**, Wesleyan Women in Science \hfill 2012-2013  
 
 ## Organizations & Memberships
+**Certified Instructor**, The Carpentries  \hfill 2021-present  
 **Member**, Society for the Study of Evolution (SSE)  \hfill 2021-present  
 **Member**, Sigma Xi: The Scientific Research Honor Society  \hfill 2021-present  
-**Chapter Coordinator**, Canadian Association for Girls in Science- Toronto Chapter  \hfill 2020-present  
+**Chapter Coordinator**, Canadian Association for Girls in Science- Toronto Chapter  \hfill 2020-2022  
 **Volunteer**, Canadian Association for Girls in Science- Toronto Chapter \hfill 2019-2020  
 **Founder & Leader**, Walking in the Woods with Words (Forest Bathing Club) \hfill 2019-2020  
-**Volunteer**, High Park Nature Stewards \hfill 2018-present  
 **Member**, Canadian Society of Ecology and Evolution (CSEE)  \hfill 2018-present  
+**Volunteer**, High Park Nature Stewards \hfill 2018-2022  
+ 
 
 ## Science Communication
-**Volunteer**, Skype a Scientist (3 classes) \hfill 2020-present  
+**Volunteer**, Skype a Scientist (3 classes) \hfill 2020-2021  
 **Interviewee**, “Scientific Names”, *Toronto Nature Now* Radio Show \hfill 2020  
 **Writer** (Top 3 Contributor), [*Life in the City* Urban Evolution Blog](https://urbanevolution-litc.com/author/sophie-breitbart/) \hfill 2018-present  *www.urbanevolution-litc.com*
