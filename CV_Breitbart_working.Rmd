@@ -101,7 +101,7 @@ Santangelo J.S., Miles, L.S., **Breitbart, S.T.**, Murray-Stoker, D., Rivkin, L.
 
 ## Journal Articles
 3\.&nbsp;&nbsp;
-**Breitbart, S.**, A. Tomchyshyn, M. Johnson, and H. Wagner. 2022. Urbanization and green corridors influence reproductive success and pollinators of common milkweed. *Under Review at Urban Ecosystems.* [Preprint](https://www.biorxiv.org/content/10.1101/2022.03.11.483986v1)
+**Breitbart, S.**, A. Tomchyshyn, M. Johnson, and H. Wagner. 2022. Urbanization and green corridors influence reproductive success and pollinators of common milkweed. *Accepted at Urban Ecosystems.* [Preprint](https://www.biorxiv.org/content/10.1101/2022.03.11.483986v1)
 
 2\.&nbsp;&nbsp;
 Miles, L.S.&ast;, **S.T. Breitbart&ast;**, H.H. Wagner, and M.T.J. Johnson. 2019. Urbanization Shapes the Ecology and Evolution of Plant-Arthropod Herbivore Interactions. Frontiers in Ecology and Evolution 7:1–14. DOI: [10.3389/fevo.2019.00310](https://www.frontiersin.org/articles/10.3389/fevo.2019.00310/full)
@@ -125,6 +125,12 @@ Miles, L.S.&ast;, **S.T. Breitbart&ast;**, H.H. Wagner, and M.T.J. Johnson. 2019
 **Breitbart, S.**, Wagner, H., Johnson, M. Urbanization affects the ecology and evolution of *Asclepias syriaca* (Common milkweed). National Center for Ecological Analysis & Synthesis (NCEAS). 1/19/2022.  
 
 # Presentations
+
+16\.&nbsp;&nbsp;
+**Breitbart, S.**, Agrawal, A., Wagner, H., Johnson, M. Urbanization promotes genetic divergence of functional traits in  *Asclepias syriaca* (common milkweed). Presentation. Evolution, Cleveland, USA. 6/25/2022.  
+
+15\.&nbsp;&nbsp;
+**Breitbart, S.**, Anurag, A., Johnson, M., Wagner, H. Uncovering the roots of phenotypic divergence in urban milkweed. Flash Talk. Integrating society, ecology, evolution, and plasticity (SEEP) to advance urban evolutionary ecology Workshop, Tempe, Arizona. 5/20/2022.  
 
 14\.&nbsp;&nbsp;
 **Breitbart, S.**, Wagner, H., Johnson, M. Testing for Genetic Clines in Phenotypic Traits Along an Urban-Rural Gradient in *Asclepias syriaca*. Presentation. Canadian Society for Ecology & Evolution (CSEE), Virtual Conference. 8/18/2021.  
@@ -205,10 +211,10 @@ Filazzola, A., **Breitbart, S.** (2021). Fast-R: Making R Work Hard So That You 
 
 # Community Involvement
 ## Reviewer for
-- *Journal of Urban Ecology*, *Functional Ecology*  
+- *Ecology & Evolution*, *Functional Ecology*, *Journal of Urban Ecology*  
 
 ## Departmental Service
-**UTM Representative**, EEB Graduate Student Association \hfill 2021-present	 
+**UTM Representative** (elected), EEB Graduate Student Association \hfill 2021-present	 
 **Fundraising Representative** (elected), EEB Graduate Student Association \hfill 2020-2021	 
 **Treasurer**, UTM Biology Graduate Student Society \hfill 2020-2021	 
 **Undergraduate Mentor**, Grad Connect Mentorship Program \hfill 2020-2021	 
@@ -241,4 +247,12 @@ Filazzola, A., **Breitbart, S.** (2021). Fast-R: Making R Work Hard So That You 
 ## Science Communication
 **Volunteer**, Skype a Scientist (3 classes) \hfill 2020-2021  
 **Interviewee**, “Scientific Names”, *Toronto Nature Now* Radio Show \hfill 2020  
-**Writer** (Top 3 Contributor), [*Life in the City* Urban Evolution Blog](https://urbanevolution-litc.com/author/sophie-breitbart/) \hfill 2018-present  *www.urbanevolution-litc.com*
+**Writer** (Top 3 Contributor), [*Life in the City* Urban Evolution Blog](https://urbanevolution-litc.com/author/sophie-breitbart/) \hfill 2018-present  *www.urbanevolution-litc.com*  
+
+
+<!-- ## Skills -->
+<!-- **Languages and Frameworks**: R (including base, tidyverse, modelling, visualization), Github, Markdown, ShinyApps, Python, SQL, HTML, Bash -->
+<!-- **Code**: R, python, html, bash -->
+<!-- **Bioinformatics**: HPC, illumina whole genome assembly, alignment, <!-- phasing, and SNP calling with GATK, and samtools. -->
+<!-- **Statistics**: Linear models, mixed models, foundational statistics (e.g. anovas,  etc). -->
+<!-- Version control (git/Github), High performance computing, Data management -->
