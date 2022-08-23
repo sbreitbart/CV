@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.12.27)  5 AUG 2022 22:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.12.27)  23 AUG 2022 10:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -614,12 +614,12 @@ File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 AED: lastpage setting LastPage
 [5] (./CV_Breitbart_working.aux)
 Package rerunfilecheck Info: File `CV_Breitbart_working.out' has not changed.
-(rerunfilecheck)             Checksum: 0751869D9ECE8787228EAB6F686B2761;2877.
+(rerunfilecheck)             Checksum: 21C40EB7C7A51AFFC4D21629303F3167;2902.
  ) 
 Here is how much of TeX's memory you used:
  13183 strings out of 481330
- 189803 string characters out of 5915953
- 496557 words of memory out of 5000000
+ 189813 string characters out of 5915953
+ 496562 words of memory out of 5000000
  29780 multiletter control sequences out of 15000+600000
  440540 words of font info for 82 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -634,10 +634,10 @@ ppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users
 /sbrei/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><
 c:/Users/sbrei/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr
 i8a.pfb>
-Output written on CV_Breitbart_working.pdf (5 pages, 114119 bytes).
+Output written on CV_Breitbart_working.pdf (5 pages, 114717 bytes).
 PDF statistics:
- 210 PDF objects out of 1000 (max. 8388607)
- 178 compressed objects within 2 object streams
+ 211 PDF objects out of 1000 (max. 8388607)
+ 179 compressed objects within 2 object streams
  46 named destinations out of 1000 (max. 500000)
  161 words of extra memory for PDF output out of 10000 (max. 10000000)
 

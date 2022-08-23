@@ -101,7 +101,7 @@ Santangelo J.S., Miles, L.S., **Breitbart, S.T.**, Murray-Stoker, D., Rivkin, L.
 
 ## Journal Articles
 3\.&nbsp;&nbsp;
-**Breitbart, S.**, A. Tomchyshyn, M. Johnson, and H. Wagner. 2022. Urbanization and green corridors influence reproductive success and pollinators of common milkweed. *Accepted at Urban Ecosystems.* [Preprint](https://www.biorxiv.org/content/10.1101/2022.03.11.483986v1)
+**Breitbart, S.**, A. Tomchyshyn, M. Johnson, and H. Wagner. 2022. Urbanization and a Green Corridor Influence Reproductive Success and Pollinators of Common Milkweed. *In press, Urban Ecosystems.* [Preprint](https://www.biorxiv.org/content/10.1101/2022.03.11.483986v1)
 
 2\.&nbsp;&nbsp;
 Miles, L.S.&ast;, **S.T. Breitbart&ast;**, H.H. Wagner, and M.T.J. Johnson. 2019. Urbanization Shapes the Ecology and Evolution of Plant-Arthropod Herbivore Interactions. Frontiers in Ecology and Evolution 7:1–14. DOI: [10.3389/fevo.2019.00310](https://www.frontiersin.org/articles/10.3389/fevo.2019.00310/full)
@@ -119,54 +119,57 @@ Miles, L.S.&ast;, **S.T. Breitbart&ast;**, H.H. Wagner, and M.T.J. Johnson. 2019
 \vspace{4pt}
 
 
-# Invited Seminars
+# Invited Presentations
+<!-- add NYBG and kennesaw state seminars here -->
+5\.&nbsp;&nbsp;
+**Breitbart, S.**, Anurag, A., Wagner, H., Johnson, M. Uncovering the Roots of Phenotypic Divergence in Urban Milkweed. Flash Talk. Integrating Society, Ecology, Evolution, and Plasticity (SEEP) to Advance Urban Evolutionary Ecology. Workshop, Tempe, Arizona. 5/20/2022.  
+
+4\.&nbsp;&nbsp;
+**Breitbart, S.**, Wagner, H., Johnson, M. Urbanization Affects the Ecology and Evolution of *Asclepias syriaca* (Common Milkweed). National Center for Ecological Analysis & Synthesis (NCEAS). 1/19/2022.  
+
+3\.&nbsp;&nbsp;
+**Breitbart, S.** Urban Evolutionary Ecology & Career Path Advice. Invited Seminar Panel. Biodiversity and the City (EEB197), Toronto, Ontario. 1/28/2020.  
+
+2\.&nbsp;&nbsp;
+**Breitbart, S.** Urban Evolution of Common Milkweed. Guest Lecture. Temperate Field Biology (EEB 405), King City, Ontario. 5/25/2019.  
 
 1\.&nbsp;&nbsp;
-**Breitbart, S.**, Wagner, H., Johnson, M. Urbanization affects the ecology and evolution of *Asclepias syriaca* (Common milkweed). National Center for Ecological Analysis & Synthesis (NCEAS). 1/19/2022.  
+**Breitbart, S.** Ecological Niche Modeling with Maxent. Guest Lecture. Evolutionary and Ecological Bioinformatics (BIOL 327), Middletown, Connecticut. 11/19/2015.  
 
 # Presentations
 
-16\.&nbsp;&nbsp;
-**Breitbart, S.**, Agrawal, A., Wagner, H., Johnson, M. Urbanization promotes genetic divergence of functional traits in  *Asclepias syriaca* (common milkweed). Presentation. Evolution, Cleveland, USA. 6/25/2022.  
-
-15\.&nbsp;&nbsp;
-**Breitbart, S.**, Anurag, A., Johnson, M., Wagner, H. Uncovering the roots of phenotypic divergence in urban milkweed. Flash Talk. Integrating society, ecology, evolution, and plasticity (SEEP) to advance urban evolutionary ecology Workshop, Tempe, Arizona. 5/20/2022.  
-
-14\.&nbsp;&nbsp;
-**Breitbart, S.**, Wagner, H., Johnson, M. Testing for Genetic Clines in Phenotypic Traits Along an Urban-Rural Gradient in *Asclepias syriaca*. Presentation. Canadian Society for Ecology & Evolution (CSEE), Virtual Conference. 8/18/2021.  
-
 13\.&nbsp;&nbsp;
-**Breitbart, S.**, Wagner, H., Johnson, M. Testing for Genetic Clines in Phenotypic Traits Along an Urban-Rural Gradient in *Asclepias syriaca*. Presentation. Evolution, Virtual Conference. 6/21/2021.  
+**Breitbart, S.**, Agrawal, A., Wagner, H., Johnson, M. Does Urbanization Promote Genetic Divergence of Functional Traits in  *Asclepias syriaca* (Common Milkweed)? Presentation. Joint Annual Meeting of the Ecological Society of America (ESA) and Canadian Society for Ecology & Evolution (CSEE), Montreal, Canada. 8/16/2022. 
 
 12\.&nbsp;&nbsp;
-**Breitbart, S.** Applying to and Succeeding in Graduate School. Seminar Panel. Honors Biology Thesis Course (BIO481), Virtual Seminar. 11/27/2020.  
+**Breitbart, S.**, Agrawal, A., Wagner, H., Johnson, M. Urbanization Promotes Genetic Divergence of Functional Traits in  *Asclepias syriaca* (Common Milkweed). Presentation. Evolution, Cleveland, USA. 6/25/2022.  
 
 11\.&nbsp;&nbsp;
-**Breitbart, S.**, Wagner, H., Johnson, M. Effects of Urbanization on Reproductive Success in Common Milkweed. Presentation. University of Toronto Mississauga Graduate Research Colloquium, Virtual Conference. 5/27/2020.  
+**Breitbart, S.**, Wagner, H., Johnson, M. Testing for Genetic Clines in Phenotypic Traits Along an Urban-Rural Gradient in *Asclepias syriaca*. Presentation. Canadian Society for Ecology & Evolution (CSEE), Virtual Conference. 8/18/2021.  
 
 10\.&nbsp;&nbsp;
-**Breitbart, S.**, Wagner, H., Johnson, M. Effects of Urbanization on Reproductive Success in Common Milkweed. Presentation. Annual Meeting of the North American Regional Association of the International Association for Landscape Ecology, Virtual Conference. 5/11/2020.  
+**Breitbart, S.**, Wagner, H., Johnson, M. Testing for Genetic Clines in Phenotypic Traits Along an Urban-Rural Gradient in *Asclepias syriaca*. Presentation. Evolution, Virtual Conference. 6/21/2021.  
 
 9\.&nbsp;&nbsp;
-**Breitbart, S.** Urban Evolutionary Ecology & Career Path Advice. Invited Seminar Panel. Biodiversity and the City (EEB197), Toronto, Ontario. 1/28/2020.  
+**Breitbart, S.** Applying to and Succeeding in Graduate School. Seminar Panel. Honors Biology Thesis Course (BIO481), Virtual Seminar. 11/27/2020.  
 
 8\.&nbsp;&nbsp;
-**Breitbart, S.**, Wagner, H., Johnson, M. Effects of Urbanization on Reproductive Success in Common Milkweed. Seminar Presentation. Swiss Federal Institute for Forest, Snow and Landscape Research, Birmensdorf, Switzerland. 7/10/2019.  
+**Breitbart, S.**, Wagner, H., Johnson, M. Effects of Urbanization on Reproductive Success in Common Milkweed. Presentation. University of Toronto Mississauga Graduate Research Colloquium, Virtual Conference. 5/27/2020.  
 
 7\.&nbsp;&nbsp;
-**Breitbart, S.**, Wagner, H., Johnson, M. Effects of Urbanization on Reproductive Success in Common Milkweed. Flash Talk. International Association for Landscape Ecology World Congress, Milan, Italy. 7/2/2019.  
+**Breitbart, S.**, Wagner, H., Johnson, M. Effects of Urbanization on Reproductive Success in Common Milkweed. Presentation. Annual Meeting of the North American Regional Association of the International Association for Landscape Ecology, Virtual Conference. 5/11/2020.  
 
 6\.&nbsp;&nbsp;
-**Breitbart, S.** Urban Evolution of Common Milkweed. Guest Lecture. Temperate Field Biology (EEB 405), King City, Ontario. 5/25/2019.  
+**Breitbart, S.**, Wagner, H., Johnson, M. Effects of Urbanization on Reproductive Success in Common Milkweed. Seminar Presentation. Swiss Federal Institute for Forest, Snow and Landscape Research, Birmensdorf, Switzerland. 7/10/2019.  
 
 5\.&nbsp;&nbsp;
-**Breitbart, S.** Elevator Pitch. Atwood Colloquium, Toronto, Ontario. 4/13/2019.
+**Breitbart, S.**, Wagner, H., Johnson, M. Effects of Urbanization on Reproductive Success in Common Milkweed. Flash Talk. International Association for Landscape Ecology World Congress, Milan, Italy. 7/2/2019.  
 
 4\.&nbsp;&nbsp;
-**Breitbart, S.**, Poulos, H., Kraczkowski, M., Chernoff, B. (2016). Using GIS to Predict Effects of Landscape Metrics on Genetic Diversity in R. atratulus. Poster Presentation. Northeast Arc Users Group Spring Spatial Technologies Conference, Amherst, Massachusetts. 5/9/2016.  
+**Breitbart, S.** Elevator Pitch. Atwood Colloquium, Toronto, Ontario. 4/13/2019.
 
 3\.&nbsp;&nbsp;
-**Breitbart, S.** Ecological Niche Modeling with Maxent. Guest Lecture. Evolutionary and Ecological Bioinformatics (BIOL 327), Middletown, Connecticut. 11/19/2015.  
+**Breitbart, S.**, Poulos, H., Kraczkowski, M., Chernoff, B. (2016). Using GIS to Predict Effects of Landscape Metrics on Genetic Diversity in *R. atratulus*. Poster Presentation. Northeast Arc Users Group Spring Spatial Technologies Conference, Amherst, Massachusetts. 5/9/2016.  
 
 2\.&nbsp;&nbsp;
 Chernoﬀ, B., Kraczkowski, M., Angel, J., Meyer, A., Nash, C., Roman-Johnston, N., **Breitbart, S.** Over the Falls: Population Diﬀerentiation of Blacknose and Longnose Dace, *Rhinichthys atratulus* and *R. cataractae*, in Connecticut. Poster Presentation. Wesleyan Summer Research Symposium, Middletown, Connecticut. 7/31/2014.  
@@ -176,6 +179,9 @@ Chernoﬀ, B., Kraczkowski, M., Angel, J., Meyer, A., Nash, C., Roman-Johnston, 
 \vspace{4pt}
 
 # Workshops
+5\.&nbsp;&nbsp;
+**Breitbart, S.**, Filazzola, A. (2022). An Ecologist's Introduction to Data Science. Joint Annual Meeting of the Ecological Society of America (ESA) and Canadian Society for Ecology & Evolution (CSEE). https://sbreitbart.github.io/DataSci_for_Ecologists/
+
 4\.&nbsp;&nbsp;
 **Breitbart, S.**, Filazzola, A. (2021). BGSS Fall Retreat 2021 Coding Workshop. University of Toronto Mississauga Biology Graduate Student Society Fall Retreat. https://sbreitbart.github.io/BGSS_Retreat_2021_Workshop/  
 
