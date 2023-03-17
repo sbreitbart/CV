@@ -41,6 +41,9 @@ Study Abroad Program
 
 
 # Research & Professional Experience
+
+<!-- Data scientist for "#Team Vaccine: Exploring the History of Toronto's COVID-19 Vaccination Initiative thorugh Social Media" project with UHN. Co-authors: Robert Paul, Cynthia Whitehead, Brian Hodges, Stella Ng, Jeff Crukley, Mitchell Irving. tasks: cleaning Twitter data and making visualization re: who tweeted #TeamVaccine during pandemic, where they were affiliated, when they tweeted, etc. -->
+
 **Graduate Research Assistant**, University of Toronto Mississauga \hfill 2018-present  
 Mississauga, ON, Canada  
 PIs: Drs. Marc Johnson and Helene Wagner  
@@ -101,7 +104,7 @@ Santangelo J.S., Miles, L.S., **Breitbart, S.T.**, Murray-Stoker, D., Rivkin, L.
 
 ## Journal Articles
 3\.&nbsp;&nbsp;
-**Breitbart, S.**, A. Tomchyshyn, M. Johnson, and H. Wagner. 2022. Urbanization and a Green Corridor Influence Reproductive Success and Pollinators of Common Milkweed. *In press, Urban Ecosystems.* [Preprint](https://www.biorxiv.org/content/10.1101/2022.03.11.483986v1)
+**Breitbart, S.**, A. Tomchyshyn, M. Johnson, and H. Wagner. 2022. Urbanization and a Green Corridor Influence Reproductive Success and Pollinators of Common Milkweed. Urban Ecosystems. [https://doi.org/10.1007/s11252-022-01278-9](https://link.springer.com/article/10.1007/s11252-022-01278-9)
 
 2\.&nbsp;&nbsp;
 Miles, L.S.&ast;, **S.T. Breitbart&ast;**, H.H. Wagner, and M.T.J. Johnson. 2019. Urbanization Shapes the Ecology and Evolution of Plant-Arthropod Herbivore Interactions. Frontiers in Ecology and Evolution 7:1–14. DOI: [10.3389/fevo.2019.00310](https://www.frontiersin.org/articles/10.3389/fevo.2019.00310/full)
@@ -120,12 +123,18 @@ Miles, L.S.&ast;, **S.T. Breitbart&ast;**, H.H. Wagner, and M.T.J. Johnson. 2019
 
 
 # Invited Presentations
-<!-- add NYBG and kennesaw state seminars here -->
+
+7\.&nbsp;&nbsp;
+**Breitbart, S.**. A two-way street: Eco-evolutionary dynamics of common milkweed in urban environments. Public Seminar. New York Botanical Garden Ecoflora Project Seminar Series, The Bronx, New York. 11/29/2022. 
+
+6\.&nbsp;&nbsp;
+**Breitbart, S.**, Anurag, A., Wagner, H., Johnson, M. A two-way street: Eco-evolutionary dynamics of common milkweed in urban environments. Guest Seminar. Kennesaw State University EEOB Seminar Series, Kennesaw, Georgia. 10/6/2022. 
+
 5\.&nbsp;&nbsp;
 **Breitbart, S.**, Anurag, A., Wagner, H., Johnson, M. Uncovering the Roots of Phenotypic Divergence in Urban Milkweed. Flash Talk. Integrating Society, Ecology, Evolution, and Plasticity (SEEP) to Advance Urban Evolutionary Ecology. Workshop, Tempe, Arizona. 5/20/2022.  
 
 4\.&nbsp;&nbsp;
-**Breitbart, S.**, Wagner, H., Johnson, M. Urbanization Affects the Ecology and Evolution of *Asclepias syriaca* (Common Milkweed). National Center for Ecological Analysis & Synthesis (NCEAS). 1/19/2022.  
+**Breitbart, S.**, Wagner, H., Johnson, M. Urbanization Affects the Ecology and Evolution of *Asclepias syriaca* (Common Milkweed). Guest Seminar. National Center for Ecological Analysis & Synthesis (NCEAS). 1/19/2022.  
 
 3\.&nbsp;&nbsp;
 **Breitbart, S.** Urban Evolutionary Ecology & Career Path Advice. Invited Seminar Panel. Biodiversity and the City (EEB197), Toronto, Ontario. 1/28/2020.  
@@ -179,6 +188,9 @@ Chernoﬀ, B., Kraczkowski, M., Angel, J., Meyer, A., Nash, C., Roman-Johnston, 
 \vspace{4pt}
 
 # Workshops
+6\.&nbsp;&nbsp;
+**Breitbart, S.**, Filazzola, A. (2022). An Ecologist's Introduction to Data Science. Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (SORTEE) Webinar Series. https://sbreitbart.github.io/DataSci_for_Ecologists/
+
 5\.&nbsp;&nbsp;
 **Breitbart, S.**, Filazzola, A. (2022). An Ecologist's Introduction to Data Science. Joint Annual Meeting of the Ecological Society of America (ESA) and Canadian Society for Ecology & Evolution (CSEE). https://sbreitbart.github.io/DataSci_for_Ecologists/
 
@@ -198,7 +210,7 @@ Filazzola, A., **Breitbart, S.** (2021). Fast-R: Making R Work Hard So That You 
 # Teaching & Supervisory Experience
 ## Teaching
 *University of Toronto Mississauga*  
-**Teaching Assistant**, Evolutionary Biology (BIO342) \hfill 2021, 2022  
+**Teaching Assistant**, Evolutionary Biology (BIO342) \hfill 2021, 2022, 2023  
 **Teaching Assistant**, Biometrics (BIO360) \hfill 2019, 2020, 2021  
 **Teaching Assistant**, Introduction to Evolution & Evolutionary Genetics (BIO152) \hfill 2019  
 **Teaching Assistant**, Ecology (BIO205) \hfill 2018  
@@ -232,6 +244,8 @@ Filazzola, A., **Breitbart, S.** (2021). Fast-R: Making R Work Hard So That You 
 **Member**, UTM Biology Graduate Student Society \hfill 2018-present  
 
 ## Academic Service
+<!-- add TOPS workshop -->
+**Co-working Coordinator**, University of Toronto Coders \hfill 2022-present  
 **Symposium Co-organizer**, “Landscape Genetics as a Tool for Managing Human-Impacted Landscapes”. 2020 IALE-North America Conference. *Co-organizers: L. Miles, H. Abdel Hafez.* \hfill 2019-2020  
 **Mentor**, MentorNet \hfill 2019  
 **Steering Committee Member**, Wesleyan Women in Science \hfill 2013-2016  
@@ -253,7 +267,7 @@ Filazzola, A., **Breitbart, S.** (2021). Fast-R: Making R Work Hard So That You 
 ## Science Communication
 **Volunteer**, Skype a Scientist (3 classes) \hfill 2020-2021  
 **Interviewee**, “Scientific Names”, *Toronto Nature Now* Radio Show \hfill 2020  
-**Writer** (Top 3 Contributor), [*Life in the City* Urban Evolution Blog](https://urbanevolution-litc.com/author/sophie-breitbart/) \hfill 2018-present  *www.urbanevolution-litc.com*  
+**Writer**, [*Life in the City* Urban Evolution Blog](https://urbanevolution-litc.com/author/sophie-breitbart/), *www.urbanevolution-litc.com* \hfill 2018-present   
 
 
 <!-- ## Skills -->
