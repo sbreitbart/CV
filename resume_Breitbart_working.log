@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.12.27)  10 APR 2023 10:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.12.27)  26 JUN 2023 18:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**CV_Breitbart_working.tex
-(./CV_Breitbart_working.tex
+**resume_Breitbart_working.tex
+(./resume_Breitbart_working.tex
 LaTeX2e <2020-10-01> patch level 2
 L3 programming layer <2020-12-07> xparse <2020-03-03> (c:/Users/sbrei/AppData/R
 oaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
@@ -449,8 +449,8 @@ d-pdftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count303
 \l__pdf_internal_box=\box50
-) (./CV_Breitbart_working.aux)
-\openout1 = `CV_Breitbart_working.aux'.
+) (./resume_Breitbart_working.aux)
+\openout1 = `resume_Breitbart_working.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 103.
 LaTeX Font Info:    ... okay on input line 103.
@@ -544,9 +544,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 103.
 LaTeX Info: Redefining \pageref on input line 103.
 LaTeX Info: Redefining \nameref on input line 103.
-(./CV_Breitbart_working.out) (./CV_Breitbart_working.out)
+(./resume_Breitbart_working.out) (./resume_Breitbart_working.out)
 \@outlinefile=\write3
-\openout3 = `CV_Breitbart_working.out'.
+\openout3 = `resume_Breitbart_working.out'.
 
 
 (c:/Users/sbrei/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fmtcount/fc-englis
@@ -612,18 +612,19 @@ LaTeX Font Info:    Trying to load font information for TS1+pplj on input line
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 ) [2] [3] [4] [5] 
 AED: lastpage setting LastPage
-[6] (./CV_Breitbart_working.aux)
-Package rerunfilecheck Info: File `CV_Breitbart_working.out' has not changed.
+[6] (./resume_Breitbart_working.aux)
+Package rerunfilecheck Info: File `resume_Breitbart_working.out' has not change
+d.
 (rerunfilecheck)             Checksum: D58452A885C2DF27C353D882D7D91537;2902.
  ) 
 Here is how much of TeX's memory you used:
  13184 strings out of 481330
- 189819 string characters out of 5915953
- 496562 words of memory out of 5000000
+ 189879 string characters out of 5915953
+ 497578 words of memory out of 5000000
  29780 multiletter control sequences out of 15000+600000
  440540 words of font info for 82 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 80i,12n,85p,1209b,400s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 80i,12n,85p,1213b,400s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Users/sbrei/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.en
 c} <c:/Users/sbrei/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/e
 c/ectt1095.600pk>{c:/Users/sbrei/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/d
@@ -634,7 +635,7 @@ ppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users
 /sbrei/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><
 c:/Users/sbrei/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr
 i8a.pfb>
-Output written on CV_Breitbart_working.pdf (6 pages, 116543 bytes).
+Output written on resume_Breitbart_working.pdf (6 pages, 116928 bytes).
 PDF statistics:
  218 PDF objects out of 1000 (max. 8388607)
  185 compressed objects within 2 object streams

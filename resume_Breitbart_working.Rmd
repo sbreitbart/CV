@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Resume"
 author: "Sophie T. Breitbart"
 email: sophie.breitbart@mail.utoronto.ca
 output:
@@ -23,8 +23,6 @@ address: Department of Ecology & Evolutionary Biology
 urlcolor: blue
 web: sbreitbart.github.io
 ---
-<!-- I am using Steven V. Miller's CV template, available here: https://github.com/svmiller/svm-r-markdown-templates
-Thank you Steve! -->
 
 # Education
 **University of Toronto**, Toronto, ON, Canada \hfill 2018-present  
@@ -149,7 +147,9 @@ Santangelo J.S., Miles, L.S., **Breitbart, S.T.**, Murray-Stoker, D., Rivkin, L.
 
 # Presentations
 
-<!-- Add Evolution 2023 pres -->
+14\.&nbsp;&nbsp;
+**Breitbart, S.**, Wagner, H., Johnson, M. How does the urban landscape affect genetic diversity and genetic differentiation in a native plant of conservation importance? Presentation. Evolution, Albuquerque, USA. 6/23/2023.
+
 13\.&nbsp;&nbsp;
 **Breitbart, S.**, Agrawal, A.A., Wagner, H., Johnson, M. Does Urbanization Promote Genetic Divergence of Functional Traits in  *Asclepias syriaca* (Common Milkweed)? Presentation. Joint Annual Meeting of the Ecological Society of America (ESA) and Canadian Society for Ecology & Evolution (CSEE), Montreal, Canada. 8/16/2022. 
 

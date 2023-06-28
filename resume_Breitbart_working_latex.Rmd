@@ -1,0 +1,176 @@
+---
+name: Sophie Breitbart
+date: "`r format(Sys.time(), '%B %Y')`"
+qualifications: BA, Biology
+position: Data Scientist, Evolutionary Biologist, Ecologist
+address: Toronto, Canada
+email: sophie.breitbart@gmail.com
+website: sbreitbart.github.io
+github: sbreitbart
+linkedin: sophiebreitbart
+twitter: SophieBreitbart
+headcolor: "414141"
+output: 
+  vitae::awesomecv:
+    keep_tex: true
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(vitae)
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Current employment
+
+```{r consulting}
+tribble(
+  ~ role, ~ company, ~ loc, ~ dates, ~ details,
+  
+  "Data scientist", "Nectric", "Melbourne, Australia", "Jan. 2019 - Present", 
+  
+    list("Data science consulting projects including spatio-temporal modelling, and large scale forecasting.",
+         "Hosting workshops improving data literacy, development, analysis and modelling capabilities."
+    ),
+  
+  
+  "Research assistant", "Monash University", "Clayton, Australia", "Oct. 2015 - Present", 
+  
+    list("Involved in many internal and external data projects of varying size and complexity.", 
+         
+         "Projects typically feature large scale time series modelling or analysis, cross-sectional modelling and creating tools for improving workflows.",
+         
+         "Consulting project clients include: COVID-19 Doherty Institute, Huawei, Monash University, R Consortium, and the NSW Chief Scientist office.",
+         
+         "Developer for The R Journal, producing software for managing submitted articles and publishing them in both interactive HTML and static PDF."),
+  
+  
+  "Teaching Associate", "Monash University", "Clayton, Australia", "Mar. 2016 - Present", 
+  
+  "Sessional teaching of university students undertaking Bachelor's and Master's degrees. Specific classes are listed in 'Teaching experience'."
+  
+  ) %>% 
+  
+  detailed_entries(role, dates, company, loc, details)
+```
+
+# Education
+
+```{r education}
+tribble(
+  ~ degree, ~ uni, ~ loc, ~ dates, ~ details,
+  "BCom (Hons) in Econometrics", "Monash University", "Clayton, Australia", "Mar. 2017 - Nov. 2017", 
+    list("Recipient of the Econometrics Honours Memorial Scholarship, Dean's Honour, Dean's Commendation, and best in class for 5 units.",
+         "Honours research project was to develop a state space model for quickly forecasting time series with multiple seasonalities.",
+         "Studied units include Bayesian and frequentist econometrics, advanced statistical modelling and computational science."),
+  "BCom in Econometrics, BSc in Mathematical statistics and Computational Science", "Monash University", "Clayton, Australia", "Mar. 2013 - Nov. 2016", 
+    list("Recipient of the Monash Community Leaders Scholarship, International Institute of Forecasters Award, and best in class for 4 units.",
+         "Mentor for the Access Monash Ambassador Program (2015 and 2016)",
+         "Participant of the Vice-Chancellor's Ancora Imparo Student Leadership Program (2014)",
+         "Studied a broad range of units covering many aspects of data science. The three disciplines I majored in explored different perspectives for working with data.")
+) %>% 
+  detailed_entries(degree, dates, uni, loc, details)
+```
+
+# Teaching experience
+
+## University Tutoring
+
+```{r tutoring}
+tribble(
+  ~ title, ~ code, ~ campus, ~ semester, ~ purple,
+  "Applied forecasting", "ETC3550/ETC5550", "Clayton", "2022 S1", TRUE,
+  "Communicating with Data", "ETC5523", "Clayton", "2021 S2", FALSE
+) %>% 
+  brief_entries(glue::glue("\\textbf{<code>}: <title> (Monash <campus>)", .open = "<", .close = ">"), semester, .protect = FALSE)
+```
+
+\newpage
+
+## Industry Workshops
+
+```{r workshops}
+tribble(
+  ~ role, ~ course, ~ organisation, ~ country, ~ dates, ~ details,
+  "Teaching assistant", "Tidy Time Series and Forecasting in R", "rstudio::conf", "USA", "Jan. 2020", "Two day workshop with Rob Hyndman on forecasting using tidyverse workflows.",
+  "Instructor", "Interactive documents with Shiny", "CSIRO", "Australia", "Nov. 2019", "Two day intermediate workshop on developing of shiny applications.",
+  "Instructor", "Data Wrangling", "Monash University", "Australia", "Sep. 2019", "A short workshop in the 'R Workshops for Beginners' series on using tidyr and dplyr to wrangle data.",
+  "Helper", "Tidyverse developer day", "RStudio", "France", "Jul. 2019", "A one day developer day where I helped R users resolve issues on tidyverse packages.",
+  "Teaching assistant", "High-dimensional time series analysis", "ISI WSC", "Malaysia", "Aug. 2019", "One day short course with Rob Hyndman for analysing and forecasting large collections of time series.",
+  "Instructor", "The grammar of animation", "Monash University", "Australia", "Mar. 2019", "A short workshop for NUMBAT group on creating animated graphics in R with the gganimate package.",
+  "Teaching assistant", "Master R Developer Workshop", "RStudio", "Australia", "Dec. 2016", "A two day workshop with Hadley Wicham on programming with R and developing R packages.",
+) %>% 
+  brief_entries(glue::glue("\\textbf{<course>}: <role> (<organisation>, <country>) \\newline <details>", .open = "<", .close = ">"), paste0(dates, "\\newline"), .protect = FALSE)
+```
+
+
+# Research output
+## Software
+
+My primary research output is the translation of academic research into open source software packages.
+
+```{r r-pkgs}
+tribble(
+  ~ pkg, ~ when, ~ role, ~ details,
+  "gghdr", "2022", "Author", "Extends ggplot2 with plot types for visualising highest density regions.",
+  "forecast", "2015", "Author", "Methods and tools analysing univariate time series data and producing model-based forecasts."
+) %>% 
+  brief_entries(glue::glue("\\textbf{<pkg>}: <role> \\newline <details>", .open = "<", .close = ">"), paste0(when, "\\newline"), .protect = FALSE)
+```
+
+<!-- ## Academic research -->
+
+\newpage
+
+## Presentations
+
+```{r talks}
+tribble(
+  ~ when, ~ title, ~ details, ~ where, ~ url,
+  "2020", "Forecasting with multiple seasonality", "Methods and techniques to multiple seasonal forecasting in R", "UK NHS", "https://slides.mitchelloharawild.com/nhs2020/",
+  "2020", "Probabilistic cross-temporal hierarchies", "Recent developments of temporal reconciliation in fable.", "ISF", "https://slides.mitchelloharawild.com/isf2020/"
+) %>% 
+  brief_entries(glue::glue("\\textbf{<title>}: <details> \\newline \\url{<url>}", .open = "<", .close = ">"), when, .protect = FALSE)
+```
+
+## Publications
+
+```{r}
+# bibliography_entries("publications.bib")
+```
+
+<!-- # Data analysis projects -->
+
+<!-- # Related interests -->
+<!-- * Home automation -->
+<!-- * Beekeeping -->
+<!-- * Permaculture -->
+<!-- * Electronics design -->
+<!-- * Woodworking -->
+
+<!-- # Relevant Skills -->
+<!-- ```{r} -->
+<!-- cvskill("Data Analysis", c("Visualisation", "Data Cleaning", "Forecasting", "Modelling", "Communication", "Inference", "Machine Learning", "Web Scraping")) -->
+<!-- cvskill("Programming", c("R", "Python", "SQL", "Java", "C", "C++", "HTML/CSS", "TeX", "MATLAB")) -->
+<!-- ``` -->
+
+# Awards & Achievements
+## Awards
+```{r}
+tribble(
+  ~ award, ~ from, ~ year,
+  "Dean’s Citation for Outstanding Contribution to Student Learning as a Teaching Associate", "Monash", "2021",
+  "Commerce Dean's Honour", "Monash", "2017"
+) %>%
+  brief_entries(award, year, from)
+```
+
+## Scholarships
+```{r}
+tribble(
+  ~ scholarship, ~ from, ~ year,
+  "Econometrics Honours Memorial Scholarship", "Monash", "2017",
+  "Mitcham Rotary Scholarship", "Rotary", "2011 & 2012"
+) %>%
+  brief_entries(scholarship, year, from)
+```

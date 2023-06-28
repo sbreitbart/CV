@@ -1,0 +1,4 @@
+# Key words, phrases for resume
+
+Data science consulting projects including spatio-temporal modelling, and large scale forecasting.
+Hosting workshops improving data literacy, development, analysis and modelling capabilities.
