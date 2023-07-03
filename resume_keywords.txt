@@ -2,3 +2,293 @@
 
 Data science consulting projects including spatio-temporal modelling, and large scale forecasting.
 Hosting workshops improving data literacy, development, analysis and modelling capabilities.
+
+
+
+
+
+
+
+
+---
+title: "Resume"
+author: "Sophie T. Breitbart"
+email: sophie.breitbart@mail.utoronto.ca
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: ~/svm-latex-cv.tex
+  html_document:
+    df_print: paged
+  word_document: default
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+geometry: margin=1in
+github: sbreitbart
+jobtitle: PhD Candidate, University of Toronto
+# keywords: R Markdown, academic CV, template
+linkcolor: blue
+fontawesome: yes
+address: Department of Ecology & Evolutionary Biology
+# updated: no
+urlcolor: blue
+web: sbreitbart.github.io
+---
+
+# Education
+**University of Toronto**, Toronto, ON, Canada \hfill 2018-present  
+PhD Candidate, Ecology & Evolutionary Biology  
+Advisors: Drs. Marc Johnson and Helene Wagner
+
+**Wesleyan University**, Middletown, CT, USA \hfill 2012-2016  
+B.A., Biology, Certificate in Integrative Genomics Sciences: Informatics & Modeling
+
+**Queen Mary, University of London**, London, UK \hfill 1-5/2015  
+Study Abroad Program
+\vspace{4pt}
+
+
+
+# Research & Professional Experience
+
+<!-- Data scientist for "#Team Vaccine: Exploring the History of Toronto's COVID-19 Vaccination Initiative thorugh Social Media" project with UHN. Co-authors: Robert Paul, Cynthia Whitehead, Brian Hodges, Stella Ng, Jeff Crukley, Mitchell Irving. tasks: cleaning Twitter data and making visualization re: who tweeted #TeamVaccine during pandemic, where they were affiliated, when they tweeted, etc. -->
+
+**Graduate Research Assistant**, University of Toronto Mississauga \hfill 2018-present  
+Mississauga, ON, Canada  
+PIs: Drs. Marc Johnson and Helene Wagner  
+Thesis title: Effects of Urbanization on the Evolutionary Ecology & Population Genetics of Common Milkweed (*Asclepias syriaca*)  
+  
+**Staff Scientist I**, Princeton Hydro \hfill 2016-2018  
+South Glastonbury, CT, USA  
+Devising dam removal plan sets with AutoCAD, spatial analysis and map creation with ArcGIS, watershed management plan writing.
+
+**Aquatics Intern**, Princeton Hydro \hfill 2016  
+South Glastonbury, CT, USA  
+Water quality testing, aquatic plant mapping, spatial analysis with ArcGIS.
+
+**Undergraduate Researcher**, Wesleyan University \hfill 2014-2016  
+Middletown, CT, USA  
+PIs: Drs. Barry Chernoff and Helen Poulos  
+Dace (*Rhinichthys atratulus*, *Rhinichthys cataractae*) biogeography and phylogeography.
+
+**Undergraduate Researcher**, Wesleyan University \hfill 2013-2014  
+Middletown, CT, USA  
+PI: Dr. Fred Cohan  
+*Bacillus* phylogeography and speciation.
+
+**Independent Study**, Skidmore College \hfill 2009-2011  
+Saratoga Springs, NY, USA  
+PI: Dr. Bernard Possidente  
+Circadian locomotor activity in *Drosophila melanogaster*.
+\vspace{4pt}
+
+
+
+# Honors & Awards
+## Research Grants
+University of Toronto EEB PhD Research Grant ($2,000) \hfill 2021  
+Centre for Urban Environments Research Grant ($1,940) \hfill 2021  
+Sigma Xi Grant in Aid of Research ($1,000) \hfill 2020  
+Centre for Urban Environments Workshop/Symposium Grant ($2,500) \hfill 2020  
+&nbsp;&nbsp;*Co-applicants: L. Miles, H. Abdel Hafez.*  
+NSERC CREATE Enviro Trainee ($23,700) \hfill 2018-2019  
+&nbsp;&nbsp;*Primary applicants: H. Wagner, M. Johnson.*  
+Wesleyan University College of the Environment Summer Research Fellowship ($4,000) \hfill 2014  
+Wesleyan University Carol and Robert Lynch Student Research Fund Grant ($905) \hfill 2013  
+Wesleyan University Howard Hughes Medical Institute Grant ($884) \hfill 2013  
+
+## Scholarships & Awards
+Zimmerman/Weis Graduate Award ($10,950/year) \hfill 2020, 2021  
+International Association for Landscape Ecology Conference Travel Award ($600) \hfill 2019  
+Joseph Scacalossi Scholarship ($4,000) \hfill 2012  
+\vspace{4pt}
+
+
+
+# Publications
+## Journal Articles
+4\.&nbsp;&nbsp;
+**Breitbart, S.T.**, A.A. Agrawal,  H.H. Wagner,  M.T.J. Johnson. Urbanization and a green corridor do not impact genetic divergence in common milkweed (*Asclepias syriaca*). *In review.* [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.04.04.535613v1)
+
+3\.&nbsp;&nbsp;
+**Breitbart, S.T.**, A. Tomchyshyn, H.H. Wagner,  M.T.J. Johnson. 2023. Urbanization and a Green Corridor Influence Reproductive Success and Pollinators of Common Milkweed. Urban Ecosystems 26:31–43. [https://doi.org/10.1007/s11252-022-01278-9](https://link.springer.com/article/10.1007/s11252-022-01278-9)
+
+2\.&nbsp;&nbsp;
+Miles, L.S.&ast;, **S.T. Breitbart&ast;**, H.H. Wagner, and M.T.J. Johnson. 2019. Urbanization Shapes the Ecology and Evolution of Plant-Arthropod Herbivore Interactions. Frontiers in Ecology and Evolution 7:1–14. [https://doi.org/10.3389/fevo.2019.00310](https://www.frontiersin.org/articles/10.3389/fevo.2019.00310/full)
+
+1\.&nbsp;&nbsp;
+**Breitbart, S.** and Weigel, E. February 2019, posting date. [Visualizing a Disease Outbreak Using ESRI Story Maps.](https://tiee.esa.org/vol/v15/issues/data_sets/breitbart/abstract.html) *Teaching Issues and Experiments in Ecology*, Vol. 15: Practice #1 [online].
+
+## Book Chapters
+1\.&nbsp;&nbsp;
+Santangelo J.S., Miles, L.S., **Breitbart, S.T.**, Murray-Stoker, D., Rivkin, L.R., Johnson, M.T.J. and Ness, R.W., *Urban environments as a framework to study parallel evolution.* In: *Urban Evolutionary Biology.* Edited by Marta Szulkin, Jason Munshi-South and Anne Charmantier: Oxford University Press (2020). © Oxford University Press. [https://doi.org/10.1093/oso/9780198836841.003.0003](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198836841.001.0001/oso-9780198836841-chapter-3)
+
+## Other Publications
+2\.&nbsp;&nbsp;
+**Breitbart, S.** [Urban Evolution: A Brief Introduction.](https://storymaps.arcgis.com/stories/446efee44f8d49578d3c62bfe2c25fc1) ESRI StoryMap. May 2020.
+
+1\.&nbsp;&nbsp;
+**Breitbart, S.**, Hildebrandt, A., Possidente, B. 2010. [Assessing Effects of Sex, Mating Status, and a White-Eye Mutation in a Co-Isogenic Background on Circadian Locomotor Activity in *Drosophila melanogaster*.](http://www.ou.edu/journals/dis/DIS93/Breitbart%20171.pdf) Drosophila Information Service 93:171-175.
+\vspace{4pt}
+
+
+# Invited Presentations
+<!-- add TFN lecture -->
+
+7\.&nbsp;&nbsp;
+**Breitbart, S.**. A two-way street: Eco-evolutionary dynamics of common milkweed in urban environments. Public Seminar. New York Botanical Garden Ecoflora Project Seminar Series, The Bronx, New York. 11/29/2022. 
+
+6\.&nbsp;&nbsp;
+**Breitbart, S.**, Anurag, A., Wagner, H., Johnson, M. A two-way street: Eco-evolutionary dynamics of common milkweed in urban environments. Guest Seminar. Kennesaw State University EEOB Seminar Series, Kennesaw, Georgia. 10/6/2022. 
+
+5\.&nbsp;&nbsp;
+**Breitbart, S.**, Anurag, A., Wagner, H., Johnson, M. Uncovering the Roots of Phenotypic Divergence in Urban Milkweed. Flash Talk. Integrating Society, Ecology, Evolution, and Plasticity (SEEP) to Advance Urban Evolutionary Ecology. Workshop, Tempe, Arizona. 5/20/2022.  
+
+4\.&nbsp;&nbsp;
+**Breitbart, S.**, Wagner, H., Johnson, M. Urbanization Affects the Ecology and Evolution of *Asclepias syriaca* (Common Milkweed). Guest Seminar. National Center for Ecological Analysis & Synthesis (NCEAS). 1/19/2022.  
+
+3\.&nbsp;&nbsp;
+**Breitbart, S.** Urban Evolutionary Ecology & Career Path Advice. Invited Seminar Panel. Biodiversity and the City (EEB197), Toronto, Ontario. 1/28/2020.  
+
+2\.&nbsp;&nbsp;
+**Breitbart, S.** Urban Evolution of Common Milkweed. Guest Lecture. Temperate Field Biology (EEB 405), King City, Ontario. 5/25/2019.  
+
+1\.&nbsp;&nbsp;
+**Breitbart, S.** Ecological Niche Modeling with Maxent. Guest Lecture. Evolutionary and Ecological Bioinformatics (BIOL 327), Middletown, Connecticut. 11/19/2015.  
+
+# Presentations
+
+14\.&nbsp;&nbsp;
+**Breitbart, S.**, Wagner, H., Johnson, M. How does the urban landscape affect genetic diversity and genetic differentiation in a native plant of conservation importance? Presentation. Evolution, Albuquerque, USA. 6/23/2023.
+
+13\.&nbsp;&nbsp;
+**Breitbart, S.**, Agrawal, A.A., Wagner, H., Johnson, M. Does Urbanization Promote Genetic Divergence of Functional Traits in  *Asclepias syriaca* (Common Milkweed)? Presentation. Joint Annual Meeting of the Ecological Society of America (ESA) and Canadian Society for Ecology & Evolution (CSEE), Montreal, Canada. 8/16/2022. 
+
+12\.&nbsp;&nbsp;
+**Breitbart, S.**, Agrawal, A., Wagner, H., Johnson, M. Urbanization Promotes Genetic Divergence of Functional Traits in  *Asclepias syriaca* (Common Milkweed). Presentation. Evolution, Cleveland, USA. 6/25/2022.  
+
+11\.&nbsp;&nbsp;
+**Breitbart, S.**, Wagner, H., Johnson, M. Testing for Genetic Clines in Phenotypic Traits Along an Urban-Rural Gradient in *Asclepias syriaca*. Presentation. Canadian Society for Ecology & Evolution (CSEE), Virtual Conference. 8/18/2021.  
+
+10\.&nbsp;&nbsp;
+**Breitbart, S.**, Wagner, H., Johnson, M. Testing for Genetic Clines in Phenotypic Traits Along an Urban-Rural Gradient in *Asclepias syriaca*. Presentation. Evolution, Virtual Conference. 6/21/2021.  
+
+9\.&nbsp;&nbsp;
+**Breitbart, S.** Applying to and Succeeding in Graduate School. Seminar Panel. Honors Biology Thesis Course (BIO481), Virtual Seminar. 11/27/2020.  
+
+8\.&nbsp;&nbsp;
+**Breitbart, S.**, Wagner, H., Johnson, M. Effects of Urbanization on Reproductive Success in Common Milkweed. Presentation. University of Toronto Mississauga Graduate Research Colloquium, Virtual Conference. 5/27/2020.  
+
+7\.&nbsp;&nbsp;
+**Breitbart, S.**, Wagner, H., Johnson, M. Effects of Urbanization on Reproductive Success in Common Milkweed. Presentation. Annual Meeting of the North American Regional Association of the International Association for Landscape Ecology, Virtual Conference. 5/11/2020.  
+
+6\.&nbsp;&nbsp;
+**Breitbart, S.**, Wagner, H., Johnson, M. Effects of Urbanization on Reproductive Success in Common Milkweed. Seminar Presentation. Swiss Federal Institute for Forest, Snow and Landscape Research, Birmensdorf, Switzerland. 7/10/2019.  
+
+5\.&nbsp;&nbsp;
+**Breitbart, S.**, Wagner, H., Johnson, M. Effects of Urbanization on Reproductive Success in Common Milkweed. Flash Talk. International Association for Landscape Ecology World Congress, Milan, Italy. 7/2/2019.  
+
+4\.&nbsp;&nbsp;
+**Breitbart, S.** Elevator Pitch. Atwood Colloquium, Toronto, Ontario. 4/13/2019.
+
+3\.&nbsp;&nbsp;
+**Breitbart, S.**, Poulos, H., Kraczkowski, M., Chernoff, B. (2016). Using GIS to Predict Effects of Landscape Metrics on Genetic Diversity in *R. atratulus*. Poster Presentation. Northeast Arc Users Group Spring Spatial Technologies Conference, Amherst, Massachusetts. 5/9/2016.  
+
+2\.&nbsp;&nbsp;
+Chernoﬀ, B., Kraczkowski, M., Angel, J., Meyer, A., Nash, C., Roman-Johnston, N., **Breitbart, S.** Over the Falls: Population Diﬀerentiation of Blacknose and Longnose Dace, *Rhinichthys atratulus* and *R. cataractae*, in Connecticut. Poster Presentation. Wesleyan Summer Research Symposium, Middletown, Connecticut. 7/31/2014.  
+
+1\.&nbsp;&nbsp;
+**Breitbart, S.**, Hildebrandt, A., Possidente, B. (2010). Assessing Effects of Sex, Mating Status, and a White-Eye Mutation in a Co-Isogenic Background on Circadian Locomotor Activity in *Drosophila melanogaster*. University at Albany Undergraduate Research Symposium, Albany, New York. 4/29/2011.
+\vspace{4pt}
+
+# Workshops
+6\.&nbsp;&nbsp;
+**Breitbart, S.**, Filazzola, A. (2022). An Ecologist's Introduction to Data Science. Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (SORTEE) Webinar Series. https://sbreitbart.github.io/DataSci_for_Ecologists/
+
+5\.&nbsp;&nbsp;
+**Breitbart, S.**, Filazzola, A. (2022). An Ecologist's Introduction to Data Science. Joint Annual Meeting of the Ecological Society of America (ESA) and Canadian Society for Ecology & Evolution (CSEE). https://sbreitbart.github.io/DataSci_for_Ecologists/
+
+4\.&nbsp;&nbsp;
+**Breitbart, S.**, Filazzola, A. (2021). BGSS Fall Retreat 2021 Coding Workshop. University of Toronto Mississauga Biology Graduate Student Society Fall Retreat. https://sbreitbart.github.io/BGSS_Retreat_2021_Workshop/  
+
+3\.&nbsp;&nbsp;
+Filazzola, A., **Breitbart, S.** (2021). Fast-R: Improving the Reproducibility and Efficiency of your Coding. Santa Barbara R Meetup. https://afilazzola.github.io/SBMeetup2021-FastR/  
+
+2\.&nbsp;&nbsp;
+Filazzola, A., **Breitbart, S.** (2021). Fast-R: Making R Work Hard So That You Don’t Have To. Canadian Society for Ecology & Evolution (CSEE) Annual Meeting. https://afilazzola.github.io/FastR/  
+
+1\.&nbsp;&nbsp;
+Filazzola, A., **Breitbart, S.** (2021). Fast-R: Making R Work Hard So That You Don’t Have To. Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (SORTEE) Annual Meeting. https://afilazzola.github.io/FastR/
+\vspace{4pt}
+
+# Teaching & Supervisory Experience
+## Teaching
+*University of Toronto Mississauga*  
+**Teaching Assistant**, Evolutionary Biology (BIO342) \hfill 2021, 2022, 2023  
+**Teaching Assistant**, Biometrics (BIO360) \hfill 2019, 2020, 2021  
+**Teaching Assistant**, Introduction to Evolution & Evolutionary Genetics (BIO152) \hfill 2019  
+**Teaching Assistant**, Ecology (BIO205) \hfill 2018  
+
+*Princeton Hydro*  
+**Intern Manager**, New England Regional Office \hfill 2017  
+
+*Wesleyan University*  
+**Professorial Assistant, Peer Tutor, Cartographer**, GIS Assistant Program \hfill 2015-2016	 
+
+<!-- ## Supervisory Experience -->
+<!-- Danil Karimov, work-study student. Leaf image analysis with ImageJ. \hfill 2019-2021 -->
+\vspace{4pt}
+
+
+
+# Community Involvement
+## Reviewer for
+- *Ecology & Evolution*, *Functional Ecology*, *Proceedings of the Royal Society B: Biological Sciences*, *Journal of Urban Ecology*  
+
+## Departmental Service
+**UTM Representative** (elected), EEB Graduate Student Association \hfill 2021-2023	 
+**Fundraising Representative** (elected), EEB Graduate Student Association \hfill 2020-2021	 
+**Treasurer**, UTM Biology Graduate Student Society \hfill 2020-2021	 
+**Undergraduate Mentor**, Grad Connect Mentorship Program \hfill 2020-2021	 
+**Volunteer**, School of Graduate Studies Listening Sessions for Women in STEM \hfill 2020	
+**Organizer & Guide**, Greenhouse Tour (Wellness Event for UTM Grads) \hfill 2019    
+**Peer Mentor**, EEB Mentorship Program \hfill 2019-present  
+**Volunteer**, “Biodiversity in the City” Public Panel Discussion, Royal Ontario Museum \hfill 2019  
+**Volunteer**, Alumni and Friends Family Day at the Koffler Scientific Reserve \hfill 2019  
+**Member**, UTM Biology Graduate Student Society \hfill 2018-present  
+
+## Academic Service
+<!-- ESA workshop: Getting to Know Open Science: How to Engage and Flourish in the Growing Open Science Community -->
+**Data Scientist**, University of Toronto & University Health Network Project: "#Team Vaccine: Exploring the History of Toronto's COVID-19 Vaccination Initiative through Social Media" \hfill 2023  
+**Executive Committee Member**, University of Toronto Coders \hfill 2022-present  
+**Symposium Co-organizer**, “Landscape Genetics as a Tool for Managing Human-Impacted Landscapes”. 2020 IALE-North America Conference. *Co-organizers: L. Miles, H. Abdel Hafez.* \hfill 2019-2020  
+**Mentor**, MentorNet \hfill 2019  
+**Steering Committee Member**, Wesleyan Women in Science \hfill 2013-2016  
+**Panelist**, Wesleyan Women in Science Summer STEM Internship Info Session \hfill 2016  
+**Science Facilities Tour Guide**, WesFest (Wesleyan’s Admitted Students Recruitment Event) \hfill 2014  
+**Member**, Wesleyan Women in Science \hfill 2012-2013  
+
+## Organizations & Memberships
+**Certified Instructor**, The Carpentries  \hfill 2021-present  
+**Member**, Society for the Study of Evolution (SSE)  \hfill 2021-present  
+**Member**, Sigma Xi: The Scientific Research Honor Society  \hfill 2021-present  
+**Chapter Coordinator**, Canadian Association for Girls in Science- Toronto Chapter  \hfill 2020-2022  
+**Volunteer**, Canadian Association for Girls in Science- Toronto Chapter \hfill 2019-2020  
+**Founder & Leader**, Walking in the Woods with Words (Forest Bathing Club) \hfill 2019-2020  
+**Member**, Canadian Society of Ecology and Evolution (CSEE)  \hfill 2018-present  
+**Volunteer**, High Park Nature Stewards \hfill 2018-2022  
+ 
+
+## Science Communication
+**Volunteer**, Skype a Scientist (3 classes) \hfill 2020-2021  
+**Interviewee**, “Scientific Names”, *Toronto Nature Now* Radio Show \hfill 2020  
+**Writer**, [*Life in the City* Urban Evolution Blog](https://urbanevolution-litc.com/author/sophie-breitbart/), *www.urbanevolution-litc.com* \hfill 2018-present   
+
+
+<!-- ## Skills -->
+<!-- **Languages and Frameworks**: R (including base, tidyverse, modelling, visualization), Github, Markdown, ShinyApps, Python, SQL, HTML, Bash -->
+<!-- **Code**: R, python, html, bash -->
+<!-- **Bioinformatics**: HPC, illumina whole genome assembly, alignment, <!-- phasing, and SNP calling with GATK, and samtools. -->
+<!-- **Statistics**: Linear models, mixed models, foundational statistics (e.g. anovas,  etc). -->
+<!-- Version control (git/Github), High performance computing, Data management -->

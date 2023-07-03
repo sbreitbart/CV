@@ -120,7 +120,7 @@ tribble(
 tribble(
   ~ title, ~ code, ~ campus, ~ skill, ~ purple,
   "Applied forecasting", "ETC3550/ETC5550", "Clayton", "Code", TRUE,
-  "Communicating with Data", "ETC5523", "Clayton", "2021 S2", FALSE
+  "Communicating with Data", "ETC5523", "Clayton", "Bioinformatics", FALSE
 ) %>% 
   brief_entries(glue::glue("\\textbf{<code>}: <title> (Monash <campus>)", .open = "<", .close = ">"), skill, .protect = FALSE)
 
