@@ -21,69 +21,130 @@ library(vitae)
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Current employment
+# Education
+```{r education}
+tribble(
+  ~ degree, ~ uni, ~ loc, ~ dates, ~ details,
+  "PhD in Ecology & Evolutionary Biology",
+  "University of Toronto",
+  "Toronto, Canada",
+  "2018 - present",
+    list("Thesis: Effects of Urbanization on the Evolutionary Ecology and Population Genetics of Common Milkweed",
+         "Advisors: Drs. Marc Johnson and Helene Wagner"),
 
+  "BA in Biology, Certificate in Integrative Genomics Sciences: Informatics and Modeling",
+  "Wesleyan University",
+  "Middletown, Connecticut",
+  "2012 - 2016",
+    list("Undergraduate researcher (2013-2016): Minnow biogeography and bacterial phylogeography")
+  ) %>%
+  detailed_entries(degree, dates, uni, loc, details)
+
+```
+
+# Experience
 ```{r consulting}
 tribble(
   ~ role, ~ company, ~ loc, ~ dates, ~ details,
   
-  "Data scientist", "Nectric", "Melbourne, Australia", "Jan. 2019 - Present", 
+  "Data Scientist", "University of Toronto and University Health Network", "Toronto, Canada", "2023 - Present", 
   
-    list("Data science consulting projects including spatio-temporal modelling, and large scale forecasting.",
-         "Hosting workshops improving data literacy, development, analysis and modelling capabilities."
-    ),
+    list("Cleaned, wrangled, and visualized Twitter data for ``\\#Team Vaccine: Exploring the History of Toronto’s COVID-19 Vaccination Initiative through Social Media\" project"),
   
+
+  "Research Assistant", "University of Toronto", "Toronto, Canada", "2018 - Present", 
   
-  "Research assistant", "Monash University", "Clayton, Australia", "Oct. 2015 - Present", 
-  
-    list("Involved in many internal and external data projects of varying size and complexity.", 
+    list(
+      # "Conducted research on how urbanization influences plant ecology and evolution",
          
-         "Projects typically feature large scale time series modelling or analysis, cross-sectional modelling and creating tools for improving workflows.",
+         "Used linear mixed models and multivariate analyses to estimate the impacts of urbanization on reproductive success and genetic divergence in a native plant",
          
-         "Consulting project clients include: COVID-19 Doherty Institute, Huawei, Monash University, R Consortium, and the NSW Chief Scientist office.",
+         "Quantified how urbanization shapes genetic diversity and population structure of a native plant",
          
-         "Developer for The R Journal, producing software for managing submitted articles and publishing them in both interactive HTML and static PDF."),
+         "Taught tutorials in data science, biostatistics, evolutionary biology, ecology, and molecular genetics"),
   
   
-  "Teaching Associate", "Monash University", "Clayton, Australia", "Mar. 2016 - Present", 
+  "Staff Scientist I", "Princeton Hydro", "South Glastonbury, Connecticut", "2016 - 2018", 
   
-  "Sessional teaching of university students undertaking Bachelor's and Master's degrees. Specific classes are listed in 'Teaching experience'."
+  list("Designed detailed dam removal engineering plan sets with AutoCAD",
+  
+  "Analyzed geospatial data and generated maps using ArcGIS",
+  
+  "Assisted developing strategies for protecting water resources and co-authoring watershed management plans"),
+  
+    
+  "Aquatics Intern", "Princeton Hydro", "South Glastonbury, Connecticut", "2016", 
+  
+  list("Assisted in lake and landfill water quality assessments",
+  
+  "Helped conduct biological surveys of fish and invasive plant communities in various lakes")
   
   ) %>% 
   
   detailed_entries(role, dates, company, loc, details)
 ```
 
-# Education
+# Selected Publications
 
-```{r education}
+Full list of publications [here.](https://scholar.google.com/citations?hl=en&user=vx2HzukAAAAJ&view_op=list_works&sortby=pubdate)
+
+```{r}
+bibliography_entries("publications.bib")
+```
+
+
+
+\newpage
+
+# Funding & Awards
+```{r}
 tribble(
-  ~ degree, ~ uni, ~ loc, ~ dates, ~ details,
-  "BCom (Hons) in Econometrics", "Monash University", "Clayton, Australia", "Mar. 2017 - Nov. 2017", 
-    list("Recipient of the Econometrics Honours Memorial Scholarship, Dean's Honour, Dean's Commendation, and best in class for 5 units.",
-         "Honours research project was to develop a state space model for quickly forecasting time series with multiple seasonalities.",
-         "Studied units include Bayesian and frequentist econometrics, advanced statistical modelling and computational science."),
-  "BCom in Econometrics, BSc in Mathematical statistics and Computational Science", "Monash University", "Clayton, Australia", "Mar. 2013 - Nov. 2016", 
-    list("Recipient of the Monash Community Leaders Scholarship, International Institute of Forecasters Award, and best in class for 4 units.",
-         "Mentor for the Access Monash Ambassador Program (2015 and 2016)",
-         "Participant of the Vice-Chancellor's Ancora Imparo Student Leadership Program (2014)",
-         "Studied a broad range of units covering many aspects of data science. The three disciplines I majored in explored different perspectives for working with data.")
+  ~ award, ~ from, ~ year,
+  "Zimmerman/Weis Graduate Award ($10,950)", "University of Toronto", "2021",
+  "EEB PhD Research Grant ($2,000)", "University of Toronto", "2021",
+  "Centre for Urban Environments Research Grant ($1,940)", "University of Toronto", "2021",
+  "Zimmerman/Weis Graduate Award ($10,950)", "University of Toronto", "2020",
+  "Grant in Aid of Research ($1,000)", "Sigma Xi", "2020",
+  "Centre for Urban Environments Workshop/Symposium Grant ($2,500)", "University of Toronto", "2020",
+  "CREATE Enviro Trainee ($23,700)", "NSERC", "2018",
+  "College of the Environment Summer Research Fellowship ($4,000)", "Wesleyan University", "2014",
+  "Carol and Robert Lynch Student Research Fund Grant ($905)", "Wesleyan University", "2013",
+  "Howard Hughes Medical Institute Grant ($884)", "Wesleyan University", "2013",
+  "Joseph Scacalossi Scholarship ($4,000)", "Public Employees Federation", "2012") %>%
+  brief_entries(award, year, from) 
+
+```
+
+# Skills
+```{r tutoring}
+tribble(
+  ~ title, ~ code, ~ campus, ~ skill, ~ purple,
+  "Applied forecasting", "ETC3550/ETC5550", "Clayton", "Code", TRUE,
+  "Communicating with Data", "ETC5523", "Clayton", "2021 S2", FALSE
 ) %>% 
-  detailed_entries(degree, dates, uni, loc, details)
+  brief_entries(glue::glue("\\textbf{<code>}: <title> (Monash <campus>)", .open = "<", .close = ">"), skill, .protect = FALSE)
+
+
+# Code: R, bash
+# Bioinformatics: illumina whole genome assembly, alignment, and SNP calling with GATK, samtools.
+# Computing: SLURM, git.
+# Statistics: Linear models, mixed models, classical stats
+# (t-tests, anovas, etc), genetic demographic modeling.
+# Geospatial analysis & visualization: geospatial modeling in R (raster, sp, ggplot2).
+# 
+# 
+# More than 5 years experience
+# • R, Git, Bash, HTML, CSS, Python, SQL, ShinyApps
+# • Machine learning
+# • Predictive modelling and timeseries analysis
+# • Data mining and visualization
+# • Creating summary reports with RMarkdown notebooks
+# • High-throughput computing
+# • Reporting and presenting quantiative research
+
 ```
 
 # Teaching experience
-
-## University Tutoring
-
-```{r tutoring}
-tribble(
-  ~ title, ~ code, ~ campus, ~ semester, ~ purple,
-  "Applied forecasting", "ETC3550/ETC5550", "Clayton", "2022 S1", TRUE,
-  "Communicating with Data", "ETC5523", "Clayton", "2021 S2", FALSE
-) %>% 
-  brief_entries(glue::glue("\\textbf{<code>}: <title> (Monash <campus>)", .open = "<", .close = ">"), semester, .protect = FALSE)
-```
 
 \newpage
 
@@ -105,23 +166,6 @@ tribble(
 
 
 # Research output
-## Software
-
-My primary research output is the translation of academic research into open source software packages.
-
-```{r r-pkgs}
-tribble(
-  ~ pkg, ~ when, ~ role, ~ details,
-  "gghdr", "2022", "Author", "Extends ggplot2 with plot types for visualising highest density regions.",
-  "forecast", "2015", "Author", "Methods and tools analysing univariate time series data and producing model-based forecasts."
-) %>% 
-  brief_entries(glue::glue("\\textbf{<pkg>}: <role> \\newline <details>", .open = "<", .close = ">"), paste0(when, "\\newline"), .protect = FALSE)
-```
-
-<!-- ## Academic research -->
-
-\newpage
-
 ## Presentations
 
 ```{r talks}
@@ -133,20 +177,8 @@ tribble(
   brief_entries(glue::glue("\\textbf{<title>}: <details> \\newline \\url{<url>}", .open = "<", .close = ">"), when, .protect = FALSE)
 ```
 
-## Publications
-
-```{r}
-# bibliography_entries("publications.bib")
-```
 
 <!-- # Data analysis projects -->
-
-<!-- # Related interests -->
-<!-- * Home automation -->
-<!-- * Beekeeping -->
-<!-- * Permaculture -->
-<!-- * Electronics design -->
-<!-- * Woodworking -->
 
 <!-- # Relevant Skills -->
 <!-- ```{r} -->
@@ -154,23 +186,3 @@ tribble(
 <!-- cvskill("Programming", c("R", "Python", "SQL", "Java", "C", "C++", "HTML/CSS", "TeX", "MATLAB")) -->
 <!-- ``` -->
 
-# Awards & Achievements
-## Awards
-```{r}
-tribble(
-  ~ award, ~ from, ~ year,
-  "Dean’s Citation for Outstanding Contribution to Student Learning as a Teaching Associate", "Monash", "2021",
-  "Commerce Dean's Honour", "Monash", "2017"
-) %>%
-  brief_entries(award, year, from)
-```
-
-## Scholarships
-```{r}
-tribble(
-  ~ scholarship, ~ from, ~ year,
-  "Econometrics Honours Memorial Scholarship", "Monash", "2017",
-  "Mitcham Rotary Scholarship", "Rotary", "2011 & 2012"
-) %>%
-  brief_entries(scholarship, year, from)
-```
