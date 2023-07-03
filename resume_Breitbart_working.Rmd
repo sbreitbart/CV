@@ -8,6 +8,8 @@ output:
     self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
 knit: pagedown::chrome_print
+
+# change overall document properties by editing C:\Users\sbrei\Documents\R\win-library\4.1\pagedown\resources\css\resume.css
 ---
 
 Aside
@@ -15,32 +17,41 @@ Aside
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
-
 - <i class="fa fa-envelope"></i> sophie.breitbart@gmail.com
-- <i class="fa fa-home"></i> [sbreitbart.github.io/](https://sbreitbart.github.io/)
+- <i class="fa fa-home"></i> [sbreitbart.github.io](https://sbreitbart.github.io/)
 - <i class="fa fa-github"></i> [github.com/sbreitbart](https://github.com/sbreitbart)
 - <i class="fa fa-linkedin"></i> [linkedin.com/in/sophiebreitbart](https://linkedin.com/in/sophiebreitbart)
-<!-- - <i class="fa fa-phone"></i> +1 000-000-0000 -->
-
 
 Skills {#skills}
 --------------------------------------------------------------------------------
+**Languages**: R, including base & tidyverse (advanced); Bash (intermediate); Python, HTML, SQL (familiar)
 
-**Languages & Frameworks**: R (including base, tidyverse, modelling, visualization), Markdown, ShinyApps, Bash
+**Project management & reproducibility**: Git/Github, summary reports with R Markdown,  `renv`, documentation with READMEs, reproducible examples
 
-**Computing**: High-performance computing, git, SLURM
+**Data analysis**: Data cleaning & wrangling, machine learning, high-performance computing, SLURM
 
-**Statistics**: Linear models, mixed models, foundational statistics (e.g. ANOVA,  etc).
+**Statistics**: Linear and mixed models, foundational statistics (ANOVA, etc).
 
-**Communication**: 
+**Data visualization**: `ggplot2`, Shiny apps, dashboards
 
-**Project Management & Reproducibility**: Github, R markdown reports, 
+**Communication**: Excellent oral and written communication skills including 7 invited and 14 conference presentations, 4 peer-reviewed scientific publications
+
+- Full list of publications [here.](https://scholar.google.com/citations?hl=en&user=vx2HzukAAAAJ&view_op=list_works&sortby=pubdate)
+
+
+Funding & Awards {data-icon=none}
+--------------------------------------------------------------------------------
+Total funding: $63,329
+
+6 research grants; 2 awards; 2 scholarships; 2 travel grants; 1 workshop grant
+
 
 Main
 ================================================================================
 
-Sophie Breitbart {#title}
+**Sophie Breitbart** {#title}
 --------------------------------------------------------------------------------
+Data Scientist, Ecologist, Evolutionary Biologist
 
 Education {data-icon=none data-concise=true}
 --------------------------------------------------------------------------------
@@ -52,129 +63,95 @@ Toronto, Canada
 
 2018 - present
 
-- Thesis: Effects of Urbanization on the Evolutionary Ecology and Population Genetics of Common Milkweed
+- Thesis: Effects of Urbanization on the Evolutionary Ecology and Population Genetics of Common Milkweed (*Asclepias syriaca*)
 - Advisors: Drs. Marc Johnson & Helene Wagner
 
 
 ### Wesleyan University
-BA in Biology, Certificate in Integrative Genomics Sciences
+BA in Biology
 
 Middletown, Connecticut
 
 2012 - 2016
 
+- Completed Integrative Genomics Sciences Certificate
 - Undergraduate researcher (2013-2016): Minnow biogeography and bacterial phylogeography
 
 
-Research Experience {data-icon=none}
+Experience {data-icon=none}
 --------------------------------------------------------------------------------
 
-### Graduate Research Assistant
+### Data Scientist
 
-Beijing Institute of Genomics, Chinese Academy of Sciences
+University of Toronto & University Health Network
 
-Beijing, China
+Toronto, Canada
 
-2011 - 2014
+2023 - present
 
-- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
-- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
+- Clean, wrangle, and visualize Twitter data for "#Team Vaccine: Exploring the History of Toronto’s COVID-19 Vaccination Initiative through Social Media" project
+- Maintain communication with team and revise deliverables accordingly
 
-### Bioinformatican
+### Research Assistant
 
-My Health Gene Technology Co., Ltd.
+University of Toronto
 
-Beijing, China
+Toronto, Canada
 
-2015 - 2016
+2018 - present
 
-- Investigated how cancer cells spread to other parts of the body at the single cell level.
+- Estimated the impacts of urbanization on reproductive success and genetic divergence in *A. syriaca*
+- Quantified how urbanization shapes genetic diversity and population structure of *A. syriaca*
+- Taught tutorials in data science, statistics, evolution, & ecology
 
-### Visiting Scientist
 
-University of Alabama at Birmingham
+### Staff Scientist I
 
-AL, USA
+Princeton Hydro
 
-2016 - 2018
+South Glastonbury, Connecticut
 
-- Investigated the role of mitochondria in development of cancer.
-- Investigated the evolution of genome architecture and its role in important evolutionary events.
-- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
+2016 - 2018 
+  
+- Designed detailed dam removal engineering plan sets with AutoCAD
+- Analyzed geospatial data and generated maps using ArcGIS
+- Assisted developing strategies for protecting water resources and co-authoring watershed management plans
   
 
-Professional Experience {data-icon=none}
+<!-- ### Aquatics Intern -->
+
+<!-- Princeton Hydro -->
+
+<!-- South Glastonbury, Connecticut -->
+
+<!-- 2016 -->
+
+<!-- - Assisted in lake and landfill water quality assessments -->
+<!-- - Helped conduct biological surveys of fish and invasive plant communities in various lakes -->
+  
+
+
+
+Selected Workshops {data-icon=none}
 --------------------------------------------------------------------------------
 
-### Data Scientist, intern
+### An Ecologist's Introduction to Data Science
 
-SupStat Inc.
+SORTEE Webinar Series and Joint ESA/CSEE Conference
 
-Beijing, China
+[Link](https://sbreitbart.github.io/DataSci_for_Ecologists/)
 
-2014
+2022
 
-::: concise
-- Taught R language to beginners. 
-- Wrote Shiny app demos.
-- Converted statistical tutorials from SPSS to R language.
-:::
-
-### Bioinformatician
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
-
-::: concise
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor metastasis and wrote research reports. 
-- Also did case studies to identify the genetic defect causing rare disease.
-:::
+- Co-designed and instructed workshop about transferring ecologists' existing skills into rewarding careers in data science.
 
 
-Teaching Experience {data-icon=none}
---------------------------------------------------------------------------------
+### Fast-R: Making R Work Hard So That You Don’t Have To
 
-### Introduction to R Language for Beginners.
+SORTEE & CSEE Conferences; Santa Barbara R Meetup
 
-Instructor of R and Data Mining Training Courses at SupStat Inc.
+[Link](https://afilazzola.github.io/FastR/)
 
-Beijing, China
+2021
 
-2014
-
-### Computational Biology and Bioinformatics.
-
-Teaching assistant of GBS CB2-201 courses at UAB
-
-AL, USA
-
-2016 - 2017
-
-
-Selected Publications and Posters {data-icon=none}
---------------------------------------------------------------------------------
-
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
-
-Poster for 2013 International Conference of Genomics
-
-Qingdao, China
-
-2014
-
-**Yu L**, Chen B, Zhang Z.
-
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
-
-J Cell Sci. 2016 May 15;129(10):2075-84.
-
-N/A
-
-2016 
-
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
+- Co-designed and instructed workshop about conducting efficient and reproducible data analysis in R.
