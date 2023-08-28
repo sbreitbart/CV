@@ -1,0 +1,41 @@
+* {     /* Override default margins*/     --pagedjs-margin-top: 0.25in;          --pagedjs-margin-right: 0.05in;     --pagedjs-margin-bottom: 0.2in;   }
+
+
+
+:root{
+  --page-width: 8.5in;
+  --margin-right: 0.05in;
+  --margin-left: 0.20in;
+  --sidebar-width: 13rem;
+  --decorator-horizontal-margin: 0.1in;
+  --sidebar-horizontal-padding: 0in;
+}
+
+.aside{
+  width: var(--sidebar-width);
+  padding: 0.1in var(--sidebar-horizontal-padding);
+  font-size: 0.7rem;
+  float: right;
+  position: absolute;
+  right: 0.3in;
+}
+
+.aside .level2{
+  margin-top: 0.25in;
+}
+
+
+#main{
+  width: var(--main-width);
+  padding: 0 0.6in 0 0in;
+  font-size: 0.7rem;
+  float: left;
+}
+
+body{
+  line-height: 1.2;
+}
+
+#title h1{
+  line-height: 1.2;
+}

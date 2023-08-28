@@ -125,7 +125,8 @@ Santangelo J.S., Miles, L.S., **Breitbart, S.T.**, Murray-Stoker, D., Rivkin, L.
 
 
 # Invited Presentations
-<!-- add TFN lecture -->
+8\.&nbsp;&nbsp;
+**Breitbart, S.**. *Asclepias* in the Annex: How city life impacts the ecology and evolution of common milkweed. Public Seminar. Toronto Field Naturalists Lecture Series, Toronto, Canada. 9/10/2023. 
 
 7\.&nbsp;&nbsp;
 **Breitbart, S.**. A two-way street: Eco-evolutionary dynamics of common milkweed in urban environments. Public Seminar. New York Botanical Garden Ecoflora Project Seminar Series, The Bronx, New York. 11/29/2022. 
@@ -149,8 +150,9 @@ Santangelo J.S., Miles, L.S., **Breitbart, S.T.**, Murray-Stoker, D., Rivkin, L.
 **Breitbart, S.** Ecological Niche Modeling with Maxent. Guest Lecture. Evolutionary and Ecological Bioinformatics (BIOL 327), Middletown, Connecticut. 11/19/2015.  
 
 # Presentations
+14\.&nbsp;&nbsp;
+**Breitbart, S.**, Johnson, M., Wagner, H. How does the urban landscape affect genetic diversity and genetic differentiation in a native plant of conservation importance? Presentation. Evolution, Albuquerque, USA. 6/23/2023. 
 
-<!-- Add Evolution 2023 pres -->
 13\.&nbsp;&nbsp;
 **Breitbart, S.**, Agrawal, A.A., Wagner, H., Johnson, M. Does Urbanization Promote Genetic Divergence of Functional Traits in  *Asclepias syriaca* (Common Milkweed)? Presentation. Joint Annual Meeting of the Ecological Society of America (ESA) and Canadian Society for Ecology & Evolution (CSEE), Montreal, Canada. 8/16/2022. 
 
@@ -248,10 +250,10 @@ Filazzola, A., **Breitbart, S.** (2021). Fast-R: Making R Work Hard So That You 
 **Member**, UTM Biology Graduate Student Society \hfill 2018-present  
 
 ## Academic Service
-<!-- ESA workshop: Getting to Know Open Science: How to Engage and Flourish in the Growing Open Science Community -->
+**Workshop Co-organizer**, "Getting to Know Open Science: How to Engage and Flourish in the Growing Open Science Community". 2023 Ecological Society of America (ESA) Conference. \hfill 2023  
 **Data Scientist**, University of Toronto & University Health Network Project: "#Team Vaccine: Exploring the History of Toronto's COVID-19 Vaccination Initiative through Social Media" \hfill 2023  
 **Executive Committee Member**, University of Toronto Coders \hfill 2022-present  
-**Symposium Co-organizer**, “Landscape Genetics as a Tool for Managing Human-Impacted Landscapes”. 2020 IALE-North America Conference. *Co-organizers: L. Miles, H. Abdel Hafez.* \hfill 2019-2020  
+**Symposium Co-organizer**, “Landscape Genetics as a Tool for Managing Human-Impacted Landscapes”. 2020 IALE-North America Conference. \hfill 2019-2020  
 **Mentor**, MentorNet \hfill 2019  
 **Steering Committee Member**, Wesleyan Women in Science \hfill 2013-2016  
 **Panelist**, Wesleyan Women in Science Summer STEM Internship Info Session \hfill 2016  
@@ -266,7 +268,7 @@ Filazzola, A., **Breitbart, S.** (2021). Fast-R: Making R Work Hard So That You 
 **Volunteer**, Canadian Association for Girls in Science- Toronto Chapter \hfill 2019-2020  
 **Founder & Leader**, Walking in the Woods with Words (Forest Bathing Club) \hfill 2019-2020  
 **Member**, Canadian Society of Ecology and Evolution (CSEE)  \hfill 2018-present  
-**Volunteer**, High Park Nature Stewards \hfill 2018-2022  
+**Volunteer**, High Park Nature Stewards \hfill 2018-2020  
  
 
 ## Science Communication

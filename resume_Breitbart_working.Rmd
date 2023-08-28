@@ -4,82 +4,80 @@ author: Sophie Breitbart
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: false
-# uncomment this line to produce HTML and PDF in RStudio:
-knit: pagedown::chrome_print
-
-# change overall document properties by editing C:\Users\sbrei\Documents\R\win-library\4.1\pagedown\resources\css\resume.css
+    css:
+    - override.css # complement resume.css with new margins
+    - resume # original css
+  # set it to true for a self-contained HTML page but it'll take longer to render
+  self_contained: false
+# produce HTML and PDF in RStudio:
+  knit: pagedown::chrome_print
+  
+    
+# change overall document properties by adding sections from C:\Users\sbrei\Documents\R\win-library\4.1\pagedown\resources\css\resume.css to override.css and editing them
 ---
 
-Aside
-================================================================================
+# Aside
 
-Contact Info {#contact}
---------------------------------------------------------------------------------
-- <i class="fa fa-envelope"></i> sophie.breitbart@gmail.com
-- <i class="fa fa-home"></i> [sbreitbart.github.io](https://sbreitbart.github.io/)
-- <i class="fa fa-github"></i> [github.com/sbreitbart](https://github.com/sbreitbart)
-- <i class="fa fa-linkedin"></i> [linkedin.com/in/sophiebreitbart](https://linkedin.com/in/sophiebreitbart)
+## Contact {#contact}
 
-Skills {#skills}
---------------------------------------------------------------------------------
-**Languages**: R, including base & tidyverse (advanced); Bash (intermediate); Python, HTML, SQL (familiar)
+-   <i class="fa fa-envelope"></i> [sophie.breitbart\@gmail.com](mailto:sophie.breitbart@gmail.com){.email}
+-   <i class="fa fa-home"></i> [sbreitbart.github.io](https://sbreitbart.github.io/)
+-   <i class="fa fa-github"></i> [github.com/sbreitbart](https://github.com/sbreitbart)
+-   <i class="fa fa-linkedin"></i> [linkedin.com/in/sophiebreitbart](https://linkedin.com/in/sophiebreitbart)
 
-**Project management & reproducibility**: Git/Github, summary reports with R Markdown,  `renv`, documentation with READMEs, reproducible examples
+## Skills {#skills}
 
-**Data analysis**: Data cleaning & wrangling, machine learning, high-performance computing, SLURM
+**Languages**: R, including base & tidyverse (advanced); Bash (intermediate); Python, CSS, HTML, SQL (familiar)
 
-**Statistics**: Linear and mixed models, foundational statistics (ANOVA, etc).
+**Project management & reproducibility**: Git/Github, summary reports with R Markdown, `renv`, documentation with READMEs, reproducible examples
+
+**Data analysis**: Data cleaning & wrangling, high-performance computing, SLURM, parallelization
+
+**Statistics**: Linear and mixed models, predictive modelling, multivariate statistics
 
 **Data visualization**: `ggplot2`, Shiny apps, dashboards
 
-**Communication**: Excellent oral and written communication skills including 7 invited and 14 conference presentations, 4 peer-reviewed scientific publications
+**Communication**: Excellent oral and written communication skills including 8 invited and 14 conference presentations, 4 peer-reviewed scientific publications
 
-- Full list of publications [here.](https://scholar.google.com/citations?hl=en&user=vx2HzukAAAAJ&view_op=list_works&sortby=pubdate)
+-   Full list of publications [here.](https://scholar.google.com/citations?hl=en&user=vx2HzukAAAAJ&view_op=list_works&sortby=pubdate)
 
+## Funding & Awards {data-icon="none"}
 
-Funding & Awards {data-icon=none}
---------------------------------------------------------------------------------
-Total funding: $63,329
+Total funding: \$63,329
 
 6 research grants; 2 awards; 2 scholarships; 2 travel grants; 1 workshop grant
 
+# Main
 
-Main
-================================================================================
+## **Sophie Breitbart** {#title}
 
-**Sophie Breitbart** {#title}
---------------------------------------------------------------------------------
 Data Scientist, Ecologist, Evolutionary Biologist
 
-Education {data-icon=none data-concise=true}
---------------------------------------------------------------------------------
+## Education {data-icon="none" data-concise="true"}
 
 ### University of Toronto
+
 PhD in Ecology & Evolutionary Biology
 
 Toronto, Canada
 
 2018 - present
 
-- Thesis: Effects of Urbanization on the Evolutionary Ecology and Population Genetics of Common Milkweed (*Asclepias syriaca*)
-- Advisors: Drs. Marc Johnson & Helene Wagner
-
+-   Thesis: Effects of Urbanization on the Evolutionary Ecology and Population Genetics of Common Milkweed (*Asclepias syriaca*)
+-   Advisors: Drs. Marc Johnson & Helene Wagner
 
 ### Wesleyan University
+
 BA in Biology
 
 Middletown, Connecticut
 
 2012 - 2016
 
-- Completed Integrative Genomics Sciences Certificate
-- Undergraduate researcher (2013-2016): Minnow biogeography and bacterial phylogeography
+-   Completed Integrative Genomics Sciences Certificate
+-   Undergraduate researcher (2013-2016): Minnow biogeography and bacterial phylogeography
 
-
-Experience {data-icon=none}
---------------------------------------------------------------------------------
+## Experience {data-icon="none"}
 
 ### Data Scientist
 
@@ -89,8 +87,8 @@ Toronto, Canada
 
 2023 - present
 
-- Clean, wrangle, and visualize Twitter data for "#Team Vaccine: Exploring the History of Toronto’s COVID-19 Vaccination Initiative through Social Media" project
-- Maintain communication with team and revise deliverables accordingly
+-   Clean, wrangle, and visualize Twitter data for "#TeamVaccine: Exploring the History of Toronto's COVID-19 Vaccination Initiative through Social Media" project
+-   Maintain communication with team and revise deliverables accordingly
 
 ### Research Assistant
 
@@ -100,10 +98,8 @@ Toronto, Canada
 
 2018 - present
 
-- Estimated the impacts of urbanization on reproductive success and genetic divergence in *A. syriaca*
-- Quantified how urbanization shapes genetic diversity and population structure of *A. syriaca*
-- Taught tutorials in data science, statistics, evolution, & ecology
-
+-   Studied how urbanization impacts reproductive success, genetic divergence, genetic diversity, and population structure of *A. syriaca*
+-   Taught tutorials in data science, statistics, evolution, and ecology
 
 ### Staff Scientist I
 
@@ -111,12 +107,21 @@ Princeton Hydro
 
 South Glastonbury, Connecticut
 
-2016 - 2018 
-  
-- Designed detailed dam removal engineering plan sets with AutoCAD
-- Analyzed geospatial data and generated maps using ArcGIS
-- Assisted developing strategies for protecting water resources and co-authoring watershed management plans
-  
+2016 - 2018
+
+-   Designed detailed dam removal engineering plan sets with AutoCAD
+-   Analyzed geospatial data and generated maps using ArcGIS
+-   Assisted developing strategies for protecting water resources and co-authored watershed management plans
+
+<!-- Contributed to a variety of environmental projects, including lake management, road-stream crossing restoration, and dam removal initiatives. -->
+
+<!-- -Manipulated stream survey data using GIS (ArcMap) and AutoCAD to create detailed plan sets showcasing existing and proposed culvert and environs. created and organized cross sections, longitudinal profiles,  construction details, and other necessary plan set components. -->
+
+<!-- -Performed post-closure landfill groundwater and gas monitoring, analyzing empirical data and preparing summary reports for town governments. -->
+
+<!-- -Drafted dam removal plan sets in AutoCAD: generated drawings, standardized surveyors' basemaps, integrated GIS data, and managed layers. -->
+
+<!-- -Helped design and write lake management plans: Wrote project background and methodology, and analyzed and visualized results. -->
 
 <!-- ### Aquatics Intern -->
 
@@ -127,26 +132,100 @@ South Glastonbury, Connecticut
 <!-- 2016 -->
 
 <!-- - Assisted in lake and landfill water quality assessments -->
+
 <!-- - Helped conduct biological surveys of fish and invasive plant communities in various lakes -->
-  
 
+<!-- Intern at Princeton Hydro, an environmental consulting firm specializing in lake and watershed/natural resource management. -->
 
+<!-- Perform GIS analyses and field work for projects such as evaluating the environmental impacts and feasibility of winter water level drawdown at a Massachusetts lake and assessing and modeling nonpoint source pollution on the impaired waters of the Pequabuck River watershed. Skills: In-lake field work includes plankton sampling, rake tosses to map vegetation densities, Secchi disk, and dissolved oxygen reading. Learned MapShed, a watershed modelling program used to assist in developing lake management plans. Produce several maps per project. -->
 
-Selected Workshops {data-icon=none}
---------------------------------------------------------------------------------
+<!-- Attended New York State Federation of Lake Associations Conference in April 2016. -->
+
+<!-- GIS Assistant -->
+
+<!-- Sep 2015 - Jun 2017 · 1 yr 10 mos -->
+
+<!-- Middletown, CT-->
+
+<!-- Develop projects for professors' classes or research and instruct them how to use GIS software. Also hold four weekly office hours assisting students and faculty with various GIS-related projects, such as with thesis work or how to portray spatial data for class lectures. -->
+
+<!-- Feb-June 2017: Commissioned to create four maps portraying the evolution of the Saint-Jean-des-Vignes abbey between 1076-1140 for inclusion in book on the abbey's growth. -->
+
+<!-- Jan-May 2016: Involved in three projects: Creating maps portraying growth and evolution of 12th century Tironesian churches with art history professor; instructing Latin American studies postdoc how to create map displaying changes in Argentinian sugar trade to be included in accepted publication; teaching American Studies professor how to use ArcMap. -->
+
+<!-- Sept-Dec 2015: Created ecological niche modelling assignment and Maxent user manual for upper-level bioinformatics students. Studied various modelling programs, mastered Maxent, designed class materials, and presented lecture to students. -->
+
+<!-- Biogeography & Phylogenetics Researcher -->
+
+<!-- Apr 2014 - May 2016 · 2 yrs 2 mos -->
+
+<!-- Chernoff Lab -->
+
+<!-- September 2015-May 2016: Created a GIS-based model to predict patterns of genetic diversity in Blacknose and Longnose dace (fish) as a function of landscape metrics such as slope, soil composition, and elevation. -->
+
+<!-- April-December 2014: Investigated effects of natural barriers, specifically waterfalls, on genetic diversity and distance in Blacknose and Longnose dace. Collected genetic data and performed DNA extractions, polymerase chain reaction, gel electrophoresis, and statistical analysis. -->
+
+<!-- Microbial Evolution Researcher -->
+
+<!-- Jan 2013 - May 2014 · 1 yr 5 mos -->
+
+<!-- Cohan Lab -->
+
+<!-- Studied the speciation of three very closely related species of bacteria: Bacillus cereus, Bacillus anthracis, and Bacillus thuringiensis, through bioinformatic analysis. Used MEGA, Python, and PubMLST to investigate. -->
+
+<!-- Wrote Python script that was integrated into AdaptML software and included in Ph. D student's thesis. -->
+
+<!-- Also studied the Bacillus subtilis-licheniformis clade from a salinity gradient in Death Valley. Investigated the identification of distinct ecotypes based on bacteria's adaptations to various environments of differing chemical and physical conditions. -->
+
+<!-- Performed inoculations of bacteria, microplate preparation, data analysis through Excel, autoclaving, dishwashing, attendance of biweekly meetings, and presentation of modern microbiology articles at lab meetings. Also familiar with MEGA, Genbank, and Python. -->
+
+<!-- Mapping/GIS Field Technician Intern -->
+
+<!-- Saratoga County Inter-Municipal Stormwater Management Program -->
+
+<!-- Jun 2015 - Aug 2015 · 3 mos -->
+
+<!-- Cornell Cooperative Extension, Ballston Spa, New York -->
+
+<!-- Used Trimble GeoExplorer (global navigation satellite system receiver) to log locations of entry, conveyance, and outfall points of the Saratoga County Municipal Separate Storm Sewer Systems (MS4). Transferred data into ArcMap and assisted in creating a clear, information-rich map detailing characteristics and coordinates of MS4 elements.Used Trimble GeoExplorer (global navigation satellite system receiver) to log locations of entry, conveyance, and outfall points of the Saratoga County Municipal Separate Storm Sewer Systems (MS4). Transferred data into ArcMap and assisted in creating a clear, information-rich map detailing characteristics and coordinates of MS4 elements. -->
+
+<!-- Skills: Geospatial Data Collection · Stormwater Management · Local Government · Cartography · GIS -->
+
+<!-- Cell Biology Research Assistant -->
+
+<!-- Harvard Medical School -->
+
+<!-- Jan 2014 · 1 mo -->
+
+<!-- Cell Biology -->
+
+<!-- Studied characteristics of mitochondria in normal and mutated Drosophila melanogaster samples and how the mutated pathways are common in early-onset familial Parkinson's disease. Volunteered for 2 weeks at Harvard Medical School Cell Biology lab (LHRRB). -->
+
+<!-- Learned how to work in a hood, identify third instar larvae, make primary hemocyte cultures, apply CCCP treatment and dyes, and image analysis of confocal images with ImageJ. -->
+
+<!-- Genetics Researcher -->
+
+<!-- Skidmore College -->
+
+<!-- Oct 2009 - May 2011 · 1 yr 8 mos -->
+
+<!-- United States -->
+
+<!-- Invited to study circadian rhythms of Drosophila melanogaster under the tutelage of a genetics professor for 18 months. Observed flies, recorded genetic patterns, learned research protocol, and documented data, produced and presented poster at University at Albany Summer Science Symposium in 2011. -->
+
+## Selected Workshops {data-icon="none"}
 
 ### An Ecologist's Introduction to Data Science
 
-SORTEE Webinar Series and Joint ESA/CSEE Conference
+SORTEE Webinar Series; Joint ESA/CSEE Conference
 
 [Link](https://sbreitbart.github.io/DataSci_for_Ecologists/)
 
 2022
 
-- Co-designed and instructed workshop about transferring ecologists' existing skills into rewarding careers in data science.
+-   Co-designed and instructed workshop about transferring ecologists' existing skills into rewarding careers in data science.
 
-
-### Fast-R: Making R Work Hard So That You Don’t Have To
+### Fast-R: Making R Work Hard So That You Don't Have To
 
 SORTEE & CSEE Conferences; Santa Barbara R Meetup
 
@@ -154,4 +233,4 @@ SORTEE & CSEE Conferences; Santa Barbara R Meetup
 
 2021
 
-- Co-designed and instructed workshop about conducting efficient and reproducible data analysis in R.
+-   Co-designed and instructed workshop about conducting efficient and reproducible data analysis in R.
