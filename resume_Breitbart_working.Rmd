@@ -30,7 +30,7 @@ output:
 
 **Project management & reproducibility**: Git/Github, summary reports with R Markdown, `renv`, documentation with READMEs, reproducible examples
 
-**Data analysis**: Data cleaning & wrangling, high-performance computing, SLURM, parallelization
+**Data analysis**: Data cleaning & wrangling, high-performance computing, SLURM, parallelization, geospatial analysis
 
 **Statistics**: Linear and mixed models, predictive modelling, multivariate statistics
 
@@ -77,6 +77,18 @@ Middletown, Connecticut
 -   Undergraduate researcher (2013-2016): Minnow biogeography and bacterial phylogeography
 
 ## Experience {data-icon="none"}
+
+### Data Scientist & Instructor
+
+University of Toronto & Blood Tribe
+
+Alberta, Canada
+
+2023 - present
+
+-   Collaborate with the Blood Tribe of the Kainai First Nation to co-create project assessing reservation's rangeland health
+-   Creating an interactive Shiny App to guide various stakeholders through the data analysis while teaching key data science concepts
+
 
 ### Data Scientist
 
@@ -212,17 +224,18 @@ South Glastonbury, Connecticut
 
 <!-- Invited to study circadian rhythms of Drosophila melanogaster under the tutelage of a genetics professor for 18 months. Observed flies, recorded genetic patterns, learned research protocol, and documented data, produced and presented poster at University at Albany Summer Science Symposium in 2011. -->
 
-## Selected Workshops {data-icon="none"}
+## Selected Workshop {data-icon="none"}
+<!-- ## Selected Workshops {data-icon="none"} -->
 
-### An Ecologist's Introduction to Data Science
+<!-- ### An Ecologist's Introduction to Data Science -->
 
-SORTEE Webinar Series; Joint ESA/CSEE Conference
+<!-- SORTEE Webinar Series; Joint ESA/CSEE Conference -->
 
-[Link](https://sbreitbart.github.io/DataSci_for_Ecologists/)
+<!-- [Link](https://sbreitbart.github.io/DataSci_for_Ecologists/) -->
 
-2022
+<!-- 2022 -->
 
--   Co-designed and instructed workshop about transferring ecologists' existing skills into rewarding careers in data science.
+<!-- -   Co-designed and instructed workshop about transferring ecologists' existing skills into rewarding careers in data science -->
 
 ### Fast-R: Making R Work Hard So That You Don't Have To
 
@@ -232,4 +245,4 @@ SORTEE & CSEE Conferences; Santa Barbara R Meetup
 
 2021
 
--   Co-designed and instructed workshop about conducting efficient and reproducible data analysis in R.
+-   Co-designed and instructed workshop about conducting efficient and reproducible data analysis in R
