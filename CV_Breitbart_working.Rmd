@@ -100,7 +100,7 @@ Joseph Scacalossi Scholarship ($4,000) \hfill 2012
 # Publications
 ## Journal Articles
 4\.&nbsp;&nbsp;
-**Breitbart, S.T.**, A.A. Agrawal,  H.H. Wagner,  M.T.J. Johnson. Urbanization and a green corridor do not impact genetic divergence in common milkweed (*Asclepias syriaca*). *In review.* [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.04.04.535613v1)
+**Breitbart, S.T.**, A.A. Agrawal,  H.H. Wagner,  M.T.J. Johnson. Urbanization and a green corridor do not impact genetic divergence in common milkweed (*Asclepias syriaca* L.). *Accepted at Scientific Reports.* [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.04.04.535613v1)
 
 3\.&nbsp;&nbsp;
 **Breitbart, S.T.**, A. Tomchyshyn, H.H. Wagner,  M.T.J. Johnson. 2023. Urbanization and a Green Corridor Influence Reproductive Success and Pollinators of Common Milkweed. Urban Ecosystems 26:31–43. [https://doi.org/10.1007/s11252-022-01278-9](https://link.springer.com/article/10.1007/s11252-022-01278-9)
@@ -250,10 +250,11 @@ Filazzola, A., **Breitbart, S.** (2021). Fast-R: Making R Work Hard So That You 
 **Member**, UTM Biology Graduate Student Society \hfill 2018-present  
 
 ## Academic Service
-**Workshop Co-organizer**, "Getting to Know Open Science: How to Engage and Flourish in the Growing Open Science Community". 2023 Ecological Society of America (ESA) Conference. \hfill 2023  
+**Data Scientist & Instructor**, NSERC Alliance Knowledge Translation Project: “Implementing Landscape Connectivity Assessment for Biodiversity Management and Land-use Planning in Alberta” \hfill 2023-present  
+**Workshop Co-organizer**, "Getting to Know Open Science: How to Engage and Flourish in the Growing Open Science Community". 2023 Ecological Society of America (ESA) Conference \hfill 2023  
 **Data Scientist**, University of Toronto & University Health Network Project: "#Team Vaccine: Exploring the History of Toronto's COVID-19 Vaccination Initiative through Social Media" \hfill 2023  
 **Executive Committee Member**, University of Toronto Coders \hfill 2022-present  
-**Symposium Co-organizer**, “Landscape Genetics as a Tool for Managing Human-Impacted Landscapes”. 2020 IALE-North America Conference. \hfill 2019-2020  
+**Symposium Co-organizer**, “Landscape Genetics as a Tool for Managing Human-Impacted Landscapes”. 2020 IALE-North America Conference \hfill 2019-2020  
 **Mentor**, MentorNet \hfill 2019  
 **Steering Committee Member**, Wesleyan Women in Science \hfill 2013-2016  
 **Panelist**, Wesleyan Women in Science Summer STEM Internship Info Session \hfill 2016  

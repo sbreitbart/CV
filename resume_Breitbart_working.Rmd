@@ -10,8 +10,7 @@ output:
   # set it to true for a self-contained HTML page but it'll take longer to render
   self_contained: false
 # produce HTML and PDF in RStudio:
-  knit: pagedown::chrome_print
-  
+  knit: pagedown::chrome_print()
     
 # change overall document properties by adding sections from C:\Users\sbrei\Documents\R\win-library\4.1\pagedown\resources\css\resume.css to override.css and editing them
 ---
@@ -35,9 +34,9 @@ output:
 
 **Statistics**: Linear and mixed models, predictive modelling, multivariate statistics
 
-**Data visualization**: `ggplot2`, Shiny apps, dashboards
+**Data visualization**: `ggplot2`, maps, Shiny apps, dashboards
 
-**Communication**: Excellent oral and written communication skills including 8 invited and 14 conference presentations, 4 peer-reviewed scientific publications
+**Communication**: Excellent oral and written communication skills including 8 invited and 14 conference presentations, 5 peer-reviewed scientific publications
 
 -   Full list of publications [here.](https://scholar.google.com/citations?hl=en&user=vx2HzukAAAAJ&view_op=list_works&sortby=pubdate)
 
