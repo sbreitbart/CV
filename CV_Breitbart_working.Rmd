@@ -100,16 +100,16 @@ Joseph Scacalossi Scholarship ($4,000) \hfill 2012
 # Publications
 ## Journal Articles
 4\.&nbsp;&nbsp;
-**Breitbart, S.T.**, A.A. Agrawal,  H.H. Wagner,  M.T.J. Johnson. Urbanization and a green corridor do not impact genetic divergence in common milkweed (*Asclepias syriaca* L.). *Accepted at Scientific Reports.* [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.04.04.535613v1)
+**Breitbart, S.T.**, A.A. Agrawal,  H.H. Wagner,  M.T.J. Johnson. 2023. Urbanization and a green corridor do not impact genetic divergence in common milkweed (*Asclepias syriaca* L.). Scientific Reports 13:20437. [https://doi.org/10.1038/s41598-023-47524-8](https://www.nature.com/articles/s41598-023-47524-8)
 
 3\.&nbsp;&nbsp;
-**Breitbart, S.T.**, A. Tomchyshyn, H.H. Wagner,  M.T.J. Johnson. 2023. Urbanization and a Green Corridor Influence Reproductive Success and Pollinators of Common Milkweed. Urban Ecosystems 26:31–43. [https://doi.org/10.1007/s11252-022-01278-9](https://link.springer.com/article/10.1007/s11252-022-01278-9)
+**Breitbart, S.T.**, A. Tomchyshyn, H.H. Wagner,  M.T.J. Johnson. 2023. Urbanization and a green corridor influence reproductive success and pollinators of common milkweed. Urban Ecosystems 26:31–43. [https://doi.org/10.1007/s11252-022-01278-9](https://link.springer.com/article/10.1007/s11252-022-01278-9)
 
 2\.&nbsp;&nbsp;
-Miles, L.S.&ast;, **S.T. Breitbart&ast;**, H.H. Wagner, and M.T.J. Johnson. 2019. Urbanization Shapes the Ecology and Evolution of Plant-Arthropod Herbivore Interactions. Frontiers in Ecology and Evolution 7:1–14. [https://doi.org/10.3389/fevo.2019.00310](https://www.frontiersin.org/articles/10.3389/fevo.2019.00310/full)
+Miles, L.S.&ast;, **S.T. Breitbart&ast;**, H.H. Wagner, and M.T.J. Johnson. 2019. Urbanization shapes the ecology and evolution of plant-arthropod herbivore interactions. Frontiers in Ecology and Evolution 7:1–14. [https://doi.org/10.3389/fevo.2019.00310](https://www.frontiersin.org/articles/10.3389/fevo.2019.00310/full)
 
 1\.&nbsp;&nbsp;
-**Breitbart, S.** and Weigel, E. February 2019, posting date. [Visualizing a Disease Outbreak Using ESRI Story Maps.](https://tiee.esa.org/vol/v15/issues/data_sets/breitbart/abstract.html) *Teaching Issues and Experiments in Ecology*, Vol. 15: Practice #1 [online].
+**Breitbart, S.** and Weigel, E. February 2019, posting date. [Visualizing a disease outbreak using ESRI story maps.](https://tiee.esa.org/vol/v15/issues/data_sets/breitbart/abstract.html) *Teaching Issues and Experiments in Ecology*, Vol. 15: Practice #1 [online].
 
 ## Book Chapters
 1\.&nbsp;&nbsp;
@@ -120,7 +120,7 @@ Santangelo J.S., Miles, L.S., **Breitbart, S.T.**, Murray-Stoker, D., Rivkin, L.
 **Breitbart, S.** [Urban Evolution: A Brief Introduction.](https://storymaps.arcgis.com/stories/446efee44f8d49578d3c62bfe2c25fc1) ESRI StoryMap. May 2020.
 
 1\.&nbsp;&nbsp;
-**Breitbart, S.**, Hildebrandt, A., Possidente, B. 2010. [Assessing Effects of Sex, Mating Status, and a White-Eye Mutation in a Co-Isogenic Background on Circadian Locomotor Activity in *Drosophila melanogaster*.](http://www.ou.edu/journals/dis/DIS93/Breitbart%20171.pdf) Drosophila Information Service 93:171-175.
+**Breitbart, S.**, Hildebrandt, A., Possidente, B. 2010. [Assessing effects of sex, mating status, and a white-eye mutation in a co-isogenic background on circadian locomotor activity in *Drosophila melanogaster*.](http://www.ou.edu/journals/dis/DIS93/Breitbart%20171.pdf) Drosophila Information Service 93:171-175.
 \vspace{4pt}
 
 
